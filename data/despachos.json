@@ -1,0 +1,64 @@
+[
+  {
+    "id": "DSP-1753477336419-1",
+    "date": "2025-07-25",
+    "driver": {
+      "name": "",
+      "plate": ""
+    },
+    "orders": [
+      {
+        "orderId": "ORD-1753282483385",
+        "clientId": "364",
+        "vendorId": "edwar_ruiz",
+        "products": [
+          {
+            "id": "2",
+            "quantity": 40,
+            "price": 16.5,
+            "priceType": "perSack",
+            "applyDiscount": true,
+            "unitPrice": 16.5,
+            "productId": "2",
+            "subtotal": 660,
+            "name": "SAL RECRISTALIZADA MONTE BLANCO: PACAS 25 X 1KG",
+            "weight": 25,
+            "totalKg": 1000
+          },
+          {
+            "id": "3",
+            "quantity": 2,
+            "price": 16.5,
+            "priceType": "perSack",
+            "applyDiscount": true,
+            "unitPrice": 16.5,
+            "productId": "3",
+            "subtotal": 33,
+            "name": "SAL RESCRISTALIZADA MARCA MONTE BLANCO: PACAS 1/2KG",
+            "weight": 25,
+            "totalKg": 50
+          },
+          {
+            "id": "7",
+            "quantity": 20,
+            "price": 8.5,
+            "priceType": "perSack",
+            "applyDiscount": true,
+            "unitPrice": 8.5,
+            "productId": "7",
+            "subtotal": 170,
+            "name": "SAL REFINADA CRUZ DE ORO: PACAS 25 X 1KG",
+            "weight": 25,
+            "totalKg": 500
+          }
+        ],
+        "total": 863,
+        "paymentType": "Al BCV",
+        "address": ""
+      }
+    ],
+    "totalUnidades": 62,
+    "totalKilos": 62,
+    "createdAt": "2025-07-25T21:02:16.419Z"
+  }
+]

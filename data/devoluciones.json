@@ -1,0 +1,18 @@
+[
+  {
+    "orderId": "ORD-1753282483385",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 3
+      }
+    ],
+    "reason": "uuuuuu",
+    "date": "2025-07-23",
+    "processedBy": "uuuu",
+    "status": "returned",
+    "client": "Al Kosto Donde Comprar Es Ganar C.A (San Felipe-Centro)",
+    "vendor": "edwar_ruiz",
+    "amount": 58.739999999999995
+  }
+]

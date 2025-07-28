@@ -1,0 +1,10 @@
+/* Estilos para igualar dimensiones de módulos a Cuentas y Soporte SOLO en escritorio */
+@media (min-width: 1024px) {
+  .modulo-dimension {
+    max-width: 64rem !important; /* max-w-4xl */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 1.5rem !important; /* p-6 */
+    min-height: 80vh !important;
+  }
+}

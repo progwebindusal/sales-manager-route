@@ -1,0 +1,170 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animación de fade y slide para el card principal */
+.animate-login-card {
+  animation: login-card-fadein 0.8s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes login-card-fadein {
+  0% { opacity: 0; transform: translateY(40px) scale(0.98); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Fade in para el Card interior */
+.animate-login-fadein {
+  animation: login-fadein 0.7s 0.2s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes login-fadein {
+  0% { opacity: 0; transform: translateY(24px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Animación para el ícono */
+.animate-login-icon {
+  animation: login-icon-pop 0.7s 0.4s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes login-icon-pop {
+  0% { opacity: 0; transform: scale(0.7) translateY(-20px); }
+  80% { opacity: 1; transform: scale(1.1) translateY(0); }
+  100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+/* Fade in para el botón */
+.animate-login-btn {
+  animation: login-btn-fadein 0.7s 0.6s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes login-btn-fadein {
+  0% { opacity: 0; transform: translateY(16px) scale(0.98); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Hover y active para el botón de login */
+.animate-login-btn:hover {
+  transform: scale(1.03) translateY(-2px);
+  box-shadow: 0 8px 32px 0 rgba(34, 139, 230, 0.18), 0 1.5px 6px 0 rgba(34, 139, 230, 0.10);
+  transition: all 0.18s cubic-bezier(0.4,0,0.2,1);
+}
+.animate-login-btn:active {
+  transform: scale(0.97) translateY(1px);
+  box-shadow: 0 2px 8px 0 rgba(34, 139, 230, 0.10);
+} 
+
+/* Animación de fade y slide para el panel de características */
+.animate-features-panel {
+  animation: features-panel-fadein 0.9s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes features-panel-fadein {
+  0% { opacity: 0; transform: translateX(-40px) scale(0.98); }
+  100% { opacity: 1; transform: translateX(0) scale(1); }
+}
+
+/* Animación para el título de características */
+.animate-features-title {
+  animation: features-title-fadein 0.8s 0.1s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes features-title-fadein {
+  0% { opacity: 0; transform: translateY(-24px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Animación para cada FeatureCard */
+.animate-feature-card {
+  animation: feature-card-fadein 0.7s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes feature-card-fadein {
+  0% { opacity: 0; transform: translateY(32px) scale(0.97); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* ===== ANIMACIONES DEL DASHBOARD ===== */
+
+/* Animación de entrada del dashboard */
+.animate-dashboard-enter {
+  animation: dashboard-enter 0.8s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes dashboard-enter {
+  0% { opacity: 0; transform: translateY(20px) scale(0.98); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Animación para el header móvil */
+.animate-mobile-header {
+  animation: mobile-header-slide 0.6s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes mobile-header-slide {
+  0% { opacity: 0; transform: translateY(-20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Animación para el filtro de zona */
+.animate-zone-filter {
+  animation: zone-filter-fade 0.7s 0.2s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes zone-filter-fade {
+  0% { opacity: 0; transform: translateY(16px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Animación para la sección de bienvenida */
+.animate-welcome-section {
+  animation: welcome-section-fade 0.8s 0.3s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes welcome-section-fade {
+  0% { opacity: 0; transform: translateY(24px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Animación para los módulos */
+.animate-module-card {
+  animation: module-card-fade 0.6s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes module-card-fade {
+  0% { opacity: 0; transform: translateY(20px) scale(0.95); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Animación de hover para módulos */
+.module-card-hover {
+  transition: all 0.2s cubic-bezier(0.4,0,0.2,1);
+}
+.module-card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+
+/* Animación para el avatar */
+.animate-avatar {
+  animation: avatar-pop 0.8s 0.4s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes avatar-pop {
+  0% { opacity: 0; transform: scale(0.8) rotate(-10deg); }
+  80% { opacity: 1; transform: scale(1.05) rotate(0deg); }
+  100% { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+
+/* Animación para el botón de logout */
+.animate-logout-btn {
+  transition: all 0.2s cubic-bezier(0.4,0,0.2,1);
+}
+.animate-logout-btn:hover {
+  transform: scale(1.1) rotate(5deg);
+  background-color: #f3f4f6;
+}
+.animate-logout-btn:active {
+  transform: scale(0.95);
+}
+
+/* Animación de transición suave para cambios de módulo */
+.dashboard-transition {
+  transition: all 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Fade in general para elementos */
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s cubic-bezier(0.4,0,0.2,1) both;
+}
+@keyframes fade-in-up {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+} 

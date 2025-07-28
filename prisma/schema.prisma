@@ -1,0 +1,25 @@
+model Dispatch {
+  id          String      @id @default(uuid())
+  date        String
+  driverName  String
+  driverPlate String
+  totalUnits  Int
+  totalKilos  Float
+  orders      DispatchOrder[]
+  createdAt   DateTime    @default(now())
+}
+
+model DispatchOrder {
+  id          String    @id @default(uuid())
+  orderId     String
+  client      String
+  vendor      String
+  address     String
+  products    Json
+  total       Float
+  paymentType String
+  dispatch    Dispatch  @relation(fields: [dispatchId], references: [id])
+  dispatchId  String
+
+  @@index([dispatchId])
+} 

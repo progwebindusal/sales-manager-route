@@ -1,0 +1,13 @@
+/*
+  Expande las tablas en vista de escritorio (pantallas grandes)
+*/
+@media (min-width: 1024px) {
+  table, .table-expanded {
+    min-width: 1200px !important;
+  }
+  th, td {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    font-size: 1rem !important;
+  }
+}

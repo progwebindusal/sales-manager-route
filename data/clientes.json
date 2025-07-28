@@ -1,0 +1,4480 @@
+[
+  {
+    "name": "Comercial California 2021, C.A.",
+    "rif": "J500583120",
+    "direccion": "No posee",
+    "sada": "900301",
+    "vendorId": "victor_hinestroza",
+    "vendor": "victor_hinestroza",
+    "address": "Avenida 15, Parroquia Francisco Ochoa, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.590270127749118,
+      "lng": -71.63496215370749
+    },
+    "id": 1
+  },
+  {
+    "name": "Super Tienda Occidental 1, C.A.",
+    "rif": "J412477145",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 2
+  },
+  {
+    "name": "Mega Kairo's Compañía Anonima",
+    "rif": "J402878877",
+    "direccion": "No posee",
+    "sada": "970955",
+    "vendorId": "susan_moran",
+    "id": 3
+  },
+  {
+    "name": "Farma Expres La Limpia, C.A.",
+    "rif": "J502517804",
+    "direccion": "No posee",
+    "sada": "901601",
+    "vendorId": "susan_moran",
+    "id": 4
+  },
+  {
+    "name": "Super Tienda La Exitosa, C.A.",
+    "rif": "J502866086",
+    "direccion": "No posee",
+    "sada": "887570",
+    "vendorId": "susan_moran",
+    "id": 5
+  },
+  {
+    "name": "Lacteos Y Charcuteria Santiago, C.A.",
+    "rif": "J405867230",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 6
+  },
+  {
+    "name": "Fiorella Cabimas (Cabimas)",
+    "rif": "J500701535",
+    "direccion": "CTRA H CC BORJAS NIVEL PB LOCAL 36 SECTOR CABIMAS ZULIA",
+    "sada": "587956",
+    "vendorId": "susan_moran",
+    "id": 7
+  },
+  {
+    "name": "Fiorella Rosaleda C.A.",
+    "rif": "J411905232",
+    "direccion": "AV 81A NRO 8269 URB.LA ROSALEDA",
+    "sada": "873634",
+    "vendorId": "susan_moran",
+    "id": 8
+  },
+  {
+    "name": "Fiorella Los Olivos C.A.",
+    "rif": "J411905232",
+    "direccion": "AV 67B Y CALLE 70 CASA 69-85 BARRIO LOS OLIVOS MARACAIBO ESTADO ZULIA",
+    "sada": "661334",
+    "vendorId": "susan_moran",
+    "id": 9
+  },
+  {
+    "name": "Fiorella Visoca C.A.",
+    "rif": "J411905232",
+    "direccion": "MINI CENTRO COMERCIAL VISCOSA LOCALES 01,02,03 C.CALLES 96 SECTOR LOS POSTES NEGROS Y CAÑADA HONDA",
+    "sada": "623850",
+    "vendorId": "susan_moran",
+    "id": 10
+  },
+  {
+    "name": "Super Market Fiorella, C.A. (Amparo)",
+    "rif": "J408532654",
+    "direccion": "Calle 83 entre Av 63 A y 67 Local Nro 63A-180,Sector Amparo Barrio Carnevaly",
+    "sada": "698876",
+    "vendorId": "susan_moran",
+    "id": 11
+  },
+  {
+    "name": "Super Market Fiorella, C.A. (Amparito)",
+    "rif": "J408532654",
+    "direccion": "Calle 83 entre Av 63 A y 67 Local Nro 63A-180,Sector Amparo Barrio Carnevaly",
+    "sada": "698876",
+    "vendorId": "susan_moran",
+    "id": 12
+  },
+  {
+    "name": "Fiorella Super Market. C.A. Coromoto",
+    "rif": "J412962213",
+    "direccion": "Calle 75 con Avenida 48 Vía a La Cañada de Urdaneta N.17550 de la Parroquia San Francisco",
+    "sada": "620786",
+    "vendorId": "susan_moran",
+    "id": 13
+  },
+  {
+    "name": "Fiorella Super Market. C.A. (Curva De Molina)",
+    "rif": "J412962213",
+    "direccion": "Av 91 Local Nro Nro P/B Sector La Macandona Marcaido",
+    "sada": "720859",
+    "vendorId": "susan_moran",
+    "id": 14
+  },
+  {
+    "name": "Panadería Y Pastelería Grande Pan, C.A.",
+    "rif": "J500861133",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 15
+  },
+  {
+    "name": "Super Viveres La Union C.A.",
+    "rif": "J500347088",
+    "direccion": "No posee",
+    "sada": "896606",
+    "vendorId": "susan_moran",
+    "id": 16
+  },
+  {
+    "name": "Frato Charcutería, C.A.",
+    "rif": "J407567691",
+    "direccion": "No posee",
+    "sada": "637092",
+    "vendorId": "susan_moran",
+    "id": 17
+  },
+  {
+    "name": "Distribuidora De Condimentos Huber, C.A.",
+    "rif": "J406303208",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 18,
+    "vendor": "susan_moran",
+    "address": "Parroquia Venancio Pulgar, Municipio Maracaibo, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 10.688227570504193,
+      "lng": -71.67931831425165
+    }
+  },
+  {
+    "name": "Super Tienda Premium, C.A.",
+    "rif": "J502743316",
+    "direccion": "No posee",
+    "sada": "886789",
+    "vendorId": "susan_moran",
+    "id": 19
+  },
+  {
+    "name": "Supermercado Mega Kairo's (La Curva)",
+    "rif": "J503824213",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 20,
+    "vendor": "susan_moran",
+    "address": "Avenida 108A, Parroquia Antonio Borjas Romero, Municipio Maracaibo, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 10.68782049563898,
+      "lng": -71.67817641368144
+    }
+  },
+  {
+    "name": "Inversiones Sarcos Peña, C.A.",
+    "rif": "J403840370",
+    "direccion": "No posee",
+    "sada": "196922",
+    "vendorId": "susan_moran",
+    "id": 21
+  },
+  {
+    "name": "Supermercado Cuatricentenario C.A.",
+    "rif": "J500616062",
+    "direccion": "No posee",
+    "sada": "975364",
+    "vendorId": "susan_moran",
+    "id": 22
+  },
+  {
+    "name": "Carnicería Y Charcutería Panamericano C.A.",
+    "rif": "J295103328",
+    "direccion": "No posee",
+    "sada": "45058",
+    "vendorId": "susan_moran",
+    "id": 23,
+    "vendor": "susan_moran",
+    "address": "Parroquia Caracciolo Parra Pérez, Municipio Maracaibo, Estado Zulia, 4005, Venezuela",
+    "location": {
+      "lat": 10.695533574131332,
+      "lng": -71.67069351433945
+    }
+  },
+  {
+    "name": "El Éxito 2022",
+    "rif": "J501806411",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 24,
+    "vendor": "susan_moran",
+    "address": "Avenida 108A, Parroquia Antonio Borjas Romero, Municipio Maracaibo, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 10.684509776861564,
+      "lng": -71.68001622293963
+    }
+  },
+  {
+    "name": "Automercado, Supermercado, Panadería La Vendimia, C.A.",
+    "rif": "J304279930",
+    "direccion": "No posee",
+    "sada": "8989",
+    "vendorId": "susan_moran",
+    "id": 25
+  },
+  {
+    "name": "Super Confitería Nueva Popular, C.A.",
+    "rif": "J306685758",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 26
+  },
+  {
+    "name": "Automercado, Supermercado, Panadería La Viña, C.A.",
+    "rif": "J310548455",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 27
+  },
+  {
+    "name": "Frutas El Gordo, C.A.",
+    "rif": "J312930047",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 28
+  },
+  {
+    "name": "Ronalca Super Market C.A.",
+    "rif": "J500346530",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 29,
+    "vendor": "susan_moran",
+    "address": "Parroquia Venancio Pulgar, Municipio Maracaibo, Estado Zulia, 4005, Venezuela",
+    "location": {
+      "lat": 10.695944729280058,
+      "lng": -71.67086643836753
+    }
+  },
+  {
+    "name": "Supermercado Exito 2020 C.A.",
+    "rif": "J500388241",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 30
+  },
+  {
+    "name": "Super Tienda Wu C.A.",
+    "rif": "J500695594",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 31
+  },
+  {
+    "name": "Inversiones Y Comercial J&M 2022, C.A.",
+    "rif": "J502371605",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 32
+  },
+  {
+    "name": "Comercializadora Kiko, C.A.",
+    "rif": "J409955265",
+    "direccion": "No posee",
+    "sada": "712899",
+    "vendorId": "susan_moran",
+    "id": 33
+  },
+  {
+    "name": "Panadería La Dulce Esperanza, C.A.",
+    "rif": "J504911739",
+    "direccion": "No posee",
+    "sada": "976728",
+    "vendorId": "susan_moran",
+    "id": 34
+  },
+  {
+    "name": "Panadería Cumbres De Maracaibo, C.A.",
+    "rif": "J503765968",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 35
+  },
+  {
+    "name": "Farmaexpress C2, C.A.",
+    "rif": "J502373250",
+    "direccion": "No posee",
+    "sada": "989544",
+    "vendorId": "susan_moran",
+    "id": 36
+  },
+  {
+    "name": "Inversiones Y Comercializadora Elias Jose, C.A.",
+    "rif": "J504465585",
+    "direccion": "No posee",
+    "sada": "995287",
+    "vendorId": "susan_moran",
+    "id": 37
+  },
+  {
+    "name": "Mega Ahorro M Y J, C.A.",
+    "rif": "J505185850",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 38
+  },
+  {
+    "name": "Los Rojas 22, C.A.",
+    "rif": "J502826050",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 39
+  },
+  {
+    "name": "Reposteria Y Bolsas Clary M, C.A.",
+    "rif": "J402781652",
+    "direccion": "No posee",
+    "sada": "181314",
+    "vendorId": "susan_moran",
+    "id": 40
+  },
+  {
+    "name": "Panadería El Pan De Cira, C.A.",
+    "rif": "J409974766",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 41
+  },
+  {
+    "name": "Industrial Altozano, C.A.",
+    "rif": "J504993484",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 42
+  },
+  {
+    "name": "Viveres Hong Fung, C.A.",
+    "rif": "J313107034",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 43
+  },
+  {
+    "name": "Supermarket Dolce Pane, C.A.",
+    "rif": "J502130934",
+    "direccion": "No posee",
+    "sada": "889584",
+    "vendorId": "susan_moran",
+    "id": 44
+  },
+  {
+    "name": "Super Abastos Las Cumbres, C.A.",
+    "rif": "J500038534",
+    "direccion": "No posee",
+    "sada": "764383",
+    "vendorId": "susan_moran",
+    "id": 45
+  },
+  {
+    "name": "Super Tienda La Riqueza, C.A.",
+    "rif": "J507510877",
+    "direccion": "No posee",
+    "sada": "994386",
+    "vendorId": "susan_moran",
+    "id": 46
+  },
+  {
+    "name": "Panadería Don Miguel, C.A.",
+    "rif": "J501130346",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 47
+  },
+  {
+    "name": "Panadería Pan De Cira, C.A.",
+    "rif": "J507748246",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 48
+  },
+  {
+    "name": "Distribuidora De Productos Lacteos Y Carnicos Del Zulia C.A.",
+    "rif": "J402982437",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 49
+  },
+  {
+    "name": "Mayor Y Detal El Exito 2023 C.A.",
+    "rif": "J504037281",
+    "direccion": "No posee",
+    "sada": "906854",
+    "vendorId": "susan_moran",
+    "id": 50
+  },
+  {
+    "name": "Inversiones Radiz, C.A.",
+    "rif": "J400792975",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 51
+  },
+  {
+    "name": "Multitienda Fledoka, C.A.",
+    "rif": "J405267976",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 52
+  },
+  {
+    "name": "Super Tiendas Y Variedades 3D",
+    "rif": "J410966980",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 53,
+    "vendor": "susan_moran",
+    "address": "Parroquia Venancio Pulgar, Municipio Maracaibo, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 10.68864927823809,
+      "lng": -71.67860254743013
+    }
+  },
+  {
+    "name": "C.A.",
+    "rif": "J297350020",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 54
+  },
+  {
+    "name": "Distribuidora Y Comercializadora M&B, 2023, C.A.",
+    "rif": "J503343443",
+    "direccion": "No posee",
+    "sada": "981772",
+    "vendorId": "susan_moran",
+    "id": 55,
+    "vendor": "susan_moran",
+    "address": "Avenida 86, Parroquia Raúl Leoni, Municipio Maracaibo, Estado Zulia, 4012, Venezuela",
+    "location": {
+      "lat": 10.68132611386715,
+      "lng": -71.67694718421173
+    }
+  },
+  {
+    "name": "Lacteos La Reina C.A.",
+    "rif": "J300262553",
+    "direccion": "No posee",
+    "sada": "94548",
+    "vendorId": "susan_moran",
+    "id": 56
+  },
+  {
+    "name": "Blue JJ Inversiones, C.A.",
+    "rif": "J409303837",
+    "direccion": "No posee",
+    "sada": "893859",
+    "vendorId": "susan_moran",
+    "id": 57
+  },
+  {
+    "name": "Super Abastos Cuatricentenario C.A.",
+    "rif": "J409072584",
+    "direccion": "No posee",
+    "sada": "975364",
+    "vendorId": "susan_moran",
+    "id": 58
+  },
+  {
+    "name": "Farmacia Cinera C.A.",
+    "rif": "J501209979",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 59
+  },
+  {
+    "name": "Supermercado Occidente C.A.",
+    "rif": "J503760770",
+    "direccion": "No posee",
+    "sada": "969811",
+    "vendorId": "susan_moran",
+    "id": 60
+  },
+  {
+    "name": "Super Tienda El Bosque, C.A.",
+    "rif": "J504189111",
+    "direccion": "No posee",
+    "sada": "974696",
+    "vendorId": "susan_moran",
+    "id": 61,
+    "vendor": "susan_moran",
+    "address": "Parroquia Venancio Pulgar, Municipio Maracaibo, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 10.688554394049039,
+      "lng": -71.68077710505406
+    }
+  },
+  {
+    "name": "Panadería Y Pastelería Gran Amparo, C.A.",
+    "rif": "J304025130",
+    "direccion": "No posee",
+    "sada": "88012",
+    "vendorId": "susan_moran",
+    "id": 62
+  },
+  {
+    "name": "Comercial Caracol Compañía Anonima",
+    "rif": "J314525441",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 63,
+    "vendor": "susan_moran",
+    "address": "Parroquia Venancio Pulgar, Municipio Maracaibo, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 10.68900772935129,
+      "lng": -71.67974594380473
+    }
+  },
+  {
+    "name": "Nuevo Dragon Chino, C.A.",
+    "rif": "J500134720",
+    "direccion": "No posee",
+    "sada": "746893",
+    "vendorId": "susan_moran",
+    "id": 64
+  },
+  {
+    "name": "Supermercado Premium #1",
+    "rif": "J504202207",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 65
+  },
+  {
+    "name": "Panadería Y Pastelería El Castillo De Aleppo, C.A.",
+    "rif": "J293974232",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 66
+  },
+  {
+    "name": "Inversiones Y Viveres El Rincon Colombiano, C.A.",
+    "rif": "J500685998",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 67
+  },
+  {
+    "name": "Viveres La Curva, C.A.",
+    "rif": "J315302782",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 68
+  },
+  {
+    "name": "Super Tienda Oriental, C.A.",
+    "rif": "J504467677",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 69
+  },
+  {
+    "name": "Super Gallo Frances, C.A.",
+    "rif": "J502712429",
+    "direccion": "No posee",
+    "sada": "903940",
+    "vendorId": "susan_moran",
+    "id": 70
+  },
+  {
+    "name": "Carnicería Chiquinquireña C.A.",
+    "rif": "V166098986",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 71
+  },
+  {
+    "name": "Merly Bosca",
+    "rif": "J316425991",
+    "direccion": "No posee",
+    "sada": "54970",
+    "vendorId": "susan_moran",
+    "id": 72
+  },
+  {
+    "name": "Panadería Pastelería Charcutería Y Pizzería La Nueva Sabana",
+    "rif": "J308701165",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 73
+  },
+  {
+    "name": "Comercial Nueva Zulia, Compañía Anonima",
+    "rif": "J297839091",
+    "direccion": "No posee",
+    "sada": "974696",
+    "vendorId": "susan_moran",
+    "id": 74
+  },
+  {
+    "name": "Restaurant Yangtse LC, C.A.",
+    "rif": "J408699443",
+    "direccion": "No posee",
+    "sada": "921844",
+    "vendorId": "susan_moran",
+    "id": 75
+  },
+  {
+    "name": "Hayel Maracaibo, C.A. (Hayel Maracaibo, C.A.)",
+    "rif": "J413229046",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 76
+  },
+  {
+    "name": "Como En Casa Venezuela",
+    "rif": "J501059713",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "susan_moran",
+    "id": 77
+  },
+  {
+    "name": "Inversiones Durango's, C.A.",
+    "rif": "J501409749",
+    "direccion": "No posee",
+    "sada": "868634",
+    "vendorId": "susan_moran",
+    "id": 78
+  },
+  {
+    "name": "Pedro Pablo Briceño Soto (Distribuidora Pedro Briceño)",
+    "rif": "V141345032",
+    "direccion": "No posee",
+    "sada": "32105",
+    "vendorId": "susan_moran",
+    "id": 79
+  },
+  {
+    "name": "Foodtech, C.A.",
+    "rif": "J303948146",
+    "direccion": "No posee",
+    "sada": "227851",
+    "vendorId": "susan_moran",
+    "id": 80
+  },
+  {
+    "name": "Fiorella San Miguel",
+    "rif": "J408532654",
+    "direccion": "Av 5 Local Nro 96-219 Frente a C-2 Urb San Miguel",
+    "sada": "873635",
+    "vendorId": "susan_moran",
+    "id": 81
+  },
+  {
+    "name": "Fiorella Indio Mara",
+    "rif": "J500343329",
+    "direccion": "Av Entre 69-A y 70 Local 7,8 y 24 Centro Comercial Indio Mara",
+    "sada": "505564",
+    "vendorId": "susan_moran",
+    "id": 82
+  },
+  {
+    "name": "Hipermercado Fiorella C.A (Doral Center)",
+    "rif": "J500343329",
+    "direccion": "Av Las Delicias entre Calle 66 y Calle 66A Oc Las Garzas Nivel Planta Baja",
+    "sada": "No poseé",
+    "vendorId": "susan_moran",
+    "id": 83
+  },
+  {
+    "name": "Supermarket Fiorella Norte, C.A.",
+    "rif": "J410051078",
+    "direccion": "Calle 1 Sector 5 Casa NRD-6-155 Urb.La Marina",
+    "sada": "No poseé",
+    "vendorId": "susan_moran",
+    "id": 84
+  },
+  {
+    "name": "Supermarket Fiorella City C.A.",
+    "rif": "J412962221",
+    "direccion": "Av Fuerzas Armadas, Local Terranostra Nro 1,2,3,4,5 Sector al Lado de El Adolfo Pons",
+    "sada": "710862",
+    "vendorId": "susan_moran",
+    "id": 85
+  },
+  {
+    "name": "Supermercado Fiorella. C.A (18 De Octubre)",
+    "rif": "J412962227",
+    "direccion": "Av 05 Local Mercado Municipal del 18 Octubre, Sector 18 de Octubre",
+    "sada": "710290",
+    "vendorId": "susan_moran",
+    "id": 86
+  },
+  {
+    "name": "Hipermercado Fiorella C.A (San Jacinto)",
+    "rif": "J500343329",
+    "direccion": "Av Guajira con Av 22 CC.Centro Comercial Nivel 1 Urb.San Jacinto",
+    "sada": "758723",
+    "vendorId": "susan_moran",
+    "id": 87
+  },
+  {
+    "name": "Famoso Hipermercado, C.A.",
+    "rif": "J501512874",
+    "direccion": "No posee",
+    "sada": "995359",
+    "vendorId": "susan_moran",
+    "id": 88
+  },
+  {
+    "name": "Hipermercado Fiorella 5 De Julio, C.A.",
+    "rif": "1506400596",
+    "direccion": "No posee",
+    "sada": "No poseé",
+    "vendorId": "susan_moran",
+    "id": 89
+  },
+  {
+    "name": "La Gran Fortuna Market, C.A.",
+    "rif": "J-502885820",
+    "direccion": "No posee",
+    "sada": "916736",
+    "vendorId": "susan_moran",
+    "id": 90
+  },
+  {
+    "name": "Inversora San Martin, C.A.",
+    "rif": "J295272537",
+    "direccion": "No posee",
+    "sada": "698823",
+    "vendorId": "susan_moran",
+    "id": 91
+  },
+  {
+    "name": "Super Tienda Todos los Días, C.A.",
+    "rif": "J506132508",
+    "direccion": "No posee",
+    "sada": "997599",
+    "vendorId": "susan_moran",
+    "id": 92
+  },
+  {
+    "name": "Grupo Sapori Di Calabria C.A. (Miércoles A Viernes 11-3)",
+    "rif": "J501005400",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 93
+  },
+  {
+    "name": "Inversiones Polanco Romero (Carniceria La Suiza), C.A.",
+    "rif": "J400898277",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 94
+  },
+  {
+    "name": "Fresh Market, C.A. (Fuerzas Armadas)",
+    "rif": "J309916360",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 95
+  },
+  {
+    "name": "Fresh Market, C.A. (Delicias Norte)",
+    "rif": "J309916360",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 96
+  },
+  {
+    "name": "Inmosa C.A.",
+    "rif": "J401335381",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 97
+  },
+  {
+    "name": "Ernesto Jose Leonardi Romero",
+    "rif": "V097592973",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 98
+  },
+  {
+    "name": "Restaurant Sal Marina Express, C.A.",
+    "rif": "J503351144",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 99
+  },
+  {
+    "name": "Panaderia Y Pasteleria D´Arisa, Compañía Anonima",
+    "rif": "J308326305",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 100
+  },
+  {
+    "name": "Domenico Mezzapesa Pinto",
+    "rif": "V077641579",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 101
+  },
+  {
+    "name": "Benno Inversiones 2023, C.A.",
+    "rif": "J503391570",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 102
+  },
+  {
+    "name": "Nelson Enrique Fuenmayor",
+    "rif": "V097594330",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 103
+  },
+  {
+    "name": "Distribuidora Betsabet, C.A.",
+    "rif": "J505747517",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 104
+  },
+  {
+    "name": "Comercializadora Anj, C.A.",
+    "rif": "J412192876",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 105
+  },
+  {
+    "name": "Viveres Ronal, C.A.",
+    "rif": "J317538544",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 106
+  },
+  {
+    "name": "Novedades El Cuji, C.A.",
+    "rif": "J295330847",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 107
+  },
+  {
+    "name": "Grupo Garcia 2023, C.A.",
+    "rif": "J503323230",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 108
+  },
+  {
+    "name": "Mega Party Delicias Norte, C.A.",
+    "rif": "J401078397",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 109
+  },
+  {
+    "name": "Armando Pakwing Fung Hung (Econo Food)",
+    "rif": "V136100730",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 110
+  },
+  {
+    "name": "Inversiones Artepan Palaima",
+    "rif": "J500432224",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 111
+  },
+  {
+    "name": "Proal Express, C.A.",
+    "rif": "J409620140",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 112
+  },
+  {
+    "name": "Juan Valconi Leal (Abasto La Trinidad)",
+    "rif": "V146586445",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 113
+  },
+  {
+    "name": "Viveres De Candido (San Francisco Mall)",
+    "rif": "J070201525",
+    "direccion": "Av. 5, San Francisco. Centro Comercial Paseo San Francisco (Al lado del MTC), Local PB-01",
+    "sada": "881192",
+    "vendorId": "gerardo_hernandez",
+    "id": 114
+  },
+  {
+    "name": "MG Retail JK, C.A.",
+    "rif": "J501899029",
+    "direccion": "No posee",
+    "sada": "895154",
+    "vendorId": "gerardo_hernandez",
+    "id": 115,
+    "vendor": "gerardo_hernandez",
+    "address": "AV 02 CALLE IJ CASA NRO 03-75 SECTOR 18 DE OCTUBRE MARACAIBO ZULIA",
+    "location": null
+  },
+  {
+    "name": "Farruggio La Lago Y Asociados, C.A.",
+    "rif": "J501617694",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 116
+  },
+  {
+    "name": "Ricodelico, C.A.",
+    "rif": "J503957859",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 117
+  },
+  {
+    "name": "Pintura Pinytex, C.A.",
+    "rif": "J314179942",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 118
+  },
+  {
+    "name": "Minimarket La Fortuna, C.A.",
+    "rif": "J501849323",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 119
+  },
+  {
+    "name": "Comercial Edwin Sanchez, C.A.",
+    "rif": "J409276783",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 120
+  },
+  {
+    "name": "Comercializadora Aramgon, C.A.",
+    "rif": "J409752801",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 121
+  },
+  {
+    "name": "Comercial Hermanos Morillo, C.A.",
+    "rif": "J500408234",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 122
+  },
+  {
+    "name": "¡Que Barato! M&E, C.A.",
+    "rif": "J505457268",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 123
+  },
+  {
+    "name": "Comercial Hermanos Morillo A&A, C.A.",
+    "rif": "J501849412",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 124
+  },
+  {
+    "name": "Bodegon Juana De Avila, C.A.",
+    "rif": "J293985072",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 125
+  },
+  {
+    "name": "Supermercado Y Panaderia La Romelia, C.A.",
+    "rif": "J304942079",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 126
+  },
+  {
+    "name": "Abastos San Rafael II, C.A.",
+    "rif": "J402594542",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 127
+  },
+  {
+    "name": "Maicao N & N, C.A.",
+    "rif": "J500114753",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 128
+  },
+  {
+    "name": "Yecenia Lisbeth Cordero Lambraño",
+    "rif": "V147381081",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 129
+  },
+  {
+    "name": "Endy Antonio Vargas Camargo (Comercial Cocostette)",
+    "rif": "V097747705",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 130
+  },
+  {
+    "name": "Estefany Ameira Nava Navarro (La Charcutienda)",
+    "rif": "J261704702",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 131
+  },
+  {
+    "name": "Comercial Lea, C.A.",
+    "rif": "J406696439",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 132
+  },
+  {
+    "name": "Jose Luis Quintero (El Oferton Del Turco)",
+    "rif": "V097465289",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 133
+  },
+  {
+    "name": "Comercial Victor Hinestrozaia 2021, C.A.",
+    "rif": "J500786093",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 134
+  },
+  {
+    "name": "Maryorie Chiquinquirá Urribarri Rios (Jehová Es Mi Luz)",
+    "rif": "V14369039",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 135
+  },
+  {
+    "name": "Farmaestación, Compañía Anonima",
+    "rif": "J500410417",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 136
+  },
+  {
+    "name": "Comercializadora Que Molleja, C.A.",
+    "rif": "J501183503",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 137
+  },
+  {
+    "name": "Inversiones Rodriguez HRM, C.A.",
+    "rif": "J504681598",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 138
+  },
+  {
+    "name": "Panadería Pasteleria Charcuteria Y Carniceria S. Pierre, C.A.",
+    "rif": "J309418114",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 139
+  },
+  {
+    "name": "Alimentos Rogers, C.A.",
+    "rif": "J503285141",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 140
+  },
+  {
+    "name": "Inversiones Alimenticias De Occidente, C.A. (Full Green)",
+    "rif": "J409189074",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 141
+  },
+  {
+    "name": "Yves Joan Enriquez Nuñez",
+    "rif": "V172315743",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 142
+  },
+  {
+    "name": "Asociación Cooperativa Charcuteria R.P.E. RS",
+    "rif": "J403579474",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 143
+  },
+  {
+    "name": "Publix, C.A.",
+    "rif": "J313791652",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 144
+  },
+  {
+    "name": "Mangia Pizza Maracaibo, C.A.",
+    "rif": "J501329427",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 145
+  },
+  {
+    "name": "Carlos Boscan Barrios (Comercializadora La Mano De Dios)",
+    "rif": "V249627263",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 146
+  },
+  {
+    "name": "Supermercados Cabrita, C.A.",
+    "rif": "J500802692",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 147
+  },
+  {
+    "name": "Tostadas Ruffino, F.P.",
+    "rif": "V104519071",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 148
+  },
+  {
+    "name": "Xiomara B. Leal (Lucho Y Confio)",
+    "rif": "V058072466",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 149
+  },
+  {
+    "name": "Viveres De Candido (Sucursal Express Texaco)",
+    "rif": "J070201525",
+    "direccion": "Prolongación Circunvalación 2 con Av. Fuerzas Armadas, Estación de Servicio Texaco",
+    "sada": "16696",
+    "vendorId": "gerardo_hernandez",
+    "id": 150
+  },
+  {
+    "name": "Viveres De Candido (La Lago)",
+    "rif": "J070201525",
+    "direccion": "Av. 3C con Calle 72, diagonal a la plaza José Ramon Yépez, Sector La Lago",
+    "sada": "16699",
+    "vendorId": "gerardo_hernandez",
+    "id": 151
+  },
+  {
+    "name": "Viveres De Candido (Calle 73)",
+    "rif": "J070201525",
+    "direccion": "Calle 73, entre Avenidas 4 (Bella Vista) y 8 (Santa Rita)",
+    "sada": "163608",
+    "vendorId": "gerardo_hernandez",
+    "id": 152
+  },
+  {
+    "name": "Viveres De Candido (Santa Lucia)",
+    "rif": "J070201525",
+    "direccion": "Av. 2 El Milagro Local 6 , al Frente de la Biblioteca Publica del Estado Zulia a 25 mts de la Universidad Rafael Urdantea",
+    "sada": "470987",
+    "vendorId": "gerardo_hernandez",
+    "id": 153
+  },
+  {
+    "name": "Viveres De Candido (D´Empaire)",
+    "rif": "J070201525",
+    "direccion": "Av. 15 Fuerzas Armadas con Circunvalacion 2 al lado de la nueva Clínica D´Empaire",
+    "sada": "CS222",
+    "vendorId": "gerardo_hernandez",
+    "id": 154
+  },
+  {
+    "name": "Viveres De Candido (Canchancha-Galpon)",
+    "rif": "J070201525",
+    "direccion": "Av. 16 con calle 13 Carretera El Mojan Local Nro. A2-3 Sector Canchancha",
+    "sada": "16081",
+    "vendorId": "gerardo_hernandez",
+    "id": 155
+  },
+  {
+    "name": "Viveres De Candido (Santa Rita)",
+    "rif": "J070201525",
+    "direccion": "Av. 8 Santa Rita Esquina con calle 70",
+    "sada": "16637",
+    "vendorId": "gerardo_hernandez",
+    "id": 156
+  },
+  {
+    "name": "Viveres De Candido (Indio Mara)",
+    "rif": "J070201525",
+    "direccion": "Av. 22A con Calle 65, C.C. El Libertador, frente al Cuartel Libertador, Sector Indio Mara",
+    "sada": "16679",
+    "vendorId": "gerardo_hernandez",
+    "id": 157
+  },
+  {
+    "name": "Restaurante Pizzería Holas",
+    "rif": "J503366753",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 158
+  },
+  {
+    "name": "Supermarket Socco, C.A.",
+    "rif": "J411691119",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 159
+  },
+  {
+    "name": "Comercial El Nuevo Mojan, C.A.",
+    "rif": "J412193341",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 160
+  },
+  {
+    "name": "Panaderia Y Charcuteria Nueva Flor De Algarve, C.A.",
+    "rif": "J305590788",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 161
+  },
+  {
+    "name": "Farma Express 24 Premier, C.A.",
+    "rif": "J502756922",
+    "direccion": "AV 22 PROLONGACIÓN 5 DE JULIO EDIF MARIARA PISO 1 LOCAL MARIARA SECTOR PARAISO MARACAIBO ZULIA ZONA POSTAL 4001",
+    "sada": "976034",
+    "vendorId": "gerardo_hernandez",
+    "id": 162
+  },
+  {
+    "name": "Distribuidora Cosmos Cosmetic, C.A. Fuerzas Armadas",
+    "rif": "J293827248",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 163
+  },
+  {
+    "name": "Super Compras Mara Norte, C.A.",
+    "rif": "J502531165",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 164
+  },
+  {
+    "name": "Costta Marketplace, C.A.",
+    "rif": "J500317506",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 165
+  },
+  {
+    "name": "Distribuidora Beltran C.A.",
+    "rif": "J306378782",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 166
+  },
+  {
+    "name": "Don Biagio Mini Market & Super Express, C.A.",
+    "rif": "J315221845",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 167
+  },
+  {
+    "name": "Fresh Market, C.A. (Av 76)",
+    "rif": "J309916360",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 168
+  },
+  {
+    "name": "Farmacia Farma Servicios Av 10, C.A.",
+    "rif": "J503698403",
+    "direccion": "AVENIDA 10 CON CALLE 69, LOCAL NRO 9B-70, SECTOR TIERRA NEGRA, MARACAIBO ESTADO ZULIA, CODIGO POSTAL 4002",
+    "sada": "891628",
+    "vendorId": "gerardo_hernandez",
+    "id": 169
+  },
+  {
+    "name": "Farmaplus Milagro Norte, C.A.",
+    "rif": "J502233687",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 170
+  },
+  {
+    "name": "Farmacia Farma Servicios Cumbres, C.A.",
+    "rif": "J502971238",
+    "direccion": "CALLE 93A ENTRE AVENIDAS 58 Y 59, CAS NRO. 58-40, SECTOR LAS CUMBES DE MARACAIBO, MARACAIBO, ESTADO ZULIA, ZONA POSTAL 4002",
+    "sada": "975578",
+    "vendorId": "gerardo_hernandez",
+    "id": 171
+  },
+  {
+    "name": "Farmacia La Fuente 3F C.A.",
+    "rif": "J295486642",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 172
+  },
+  {
+    "name": "Operadora JLA, C.A (Operadora JLA, C.A) Fuerzas Armadas",
+    "rif": "J401617190",
+    "direccion": "AVENIDA FUERZAS ARMADAS ENTRE CALLE 41 Y 42 CC. MILENIUN CENTERNIVEL PB. LOCAL PB",
+    "sada": "434892",
+    "vendorId": "gerardo_hernandez",
+    "id": 173
+  },
+  {
+    "name": "Operadora JLA, C.A (Operadora JLA, C.A) La 72",
+    "rif": "J401617190",
+    "direccion": "AVENIDA FUERZAS ARMADAS ENTRE CALLES 41 Y 42 CC. MILLENIUN CENTER LOCAL PLANTA BAJA. SECTOR FUERZAS ARMADAS MARACAIBO ESTADO ZULIA",
+    "sada": "747272",
+    "vendorId": "gerardo_hernandez",
+    "id": 174
+  },
+  {
+    "name": "Farmacia Farma Servicios Norte, C.A (Maraplus Fuerzas Arm)",
+    "rif": "J501526613",
+    "direccion": "Calle 43 Av 15 local S-N, URB Rosal Sur sector Fuerzas Armadas Maracaibo ZUlia ZP 4002",
+    "sada": "733293",
+    "vendorId": "gerardo_hernandez",
+    "id": 175
+  },
+  {
+    "name": "Farmacia Farma Servicios La Limpia, C.A (Maraplus)",
+    "rif": "J409561089",
+    "direccion": "CALLE 79 ENTRE AV 78 Y 79 LOCAL 78-50 SECTOR PANAMERICANO MARACAIBO ZULIA",
+    "sada": "753109",
+    "vendorId": "gerardo_hernandez",
+    "id": 176
+  },
+  {
+    "name": "Farmacia Farma Tree",
+    "rif": "J501303851",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 177
+  },
+  {
+    "name": "Galletera Independencia, C.A.",
+    "rif": "J070068752",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 178
+  },
+  {
+    "name": "Supermercado Grand Mundo, C.A.",
+    "rif": "J404228233",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 179
+  },
+  {
+    "name": "Supermercado Bueno Mundo",
+    "rif": "J317292340",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 180
+  },
+  {
+    "name": "Farma Servicios San Francisco Mall",
+    "rif": "J504657450",
+    "direccion": "AV. 5, CC SAN FRANCISCO MALL, NIVEL PB, LOCAL 6, 7 Y 8, URB. LA COROMOTO, SAN FRANCISCO, ESTADO ZULIA, ZONA POSTAL 4004",
+    "sada": "975427",
+    "vendorId": "gerardo_hernandez",
+    "id": 181
+  },
+  {
+    "name": "Cinera Norte, C.A.",
+    "rif": "J500367791",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 182
+  },
+  {
+    "name": "Salve Cesar, C.A.",
+    "rif": "J504853194",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 183
+  },
+  {
+    "name": "Inversiones W & A, C.A.",
+    "rif": "J407608320",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 184
+  },
+  {
+    "name": "New Sevens, C.A. (Casa Mia)",
+    "rif": "J409311104",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 185
+  },
+  {
+    "name": "Veci C.A.",
+    "rif": "J500485620",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 186
+  },
+  {
+    "name": "Comercializadora J Y R, C.A.",
+    "rif": "J500996870",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 187
+  },
+  {
+    "name": "Inversiones Y Variedades K&D, C.A.",
+    "rif": "J407065670",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 188
+  },
+  {
+    "name": "Velia Aliria Martinez Urdaneta",
+    "rif": "V159865165",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 189
+  },
+  {
+    "name": "Fresh Market II, C.A. (Fuerzas Armadas)",
+    "rif": "J501840687",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 190
+  },
+  {
+    "name": "Diosa Cautivadora, C.A.",
+    "rif": "J406099996",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 191
+  },
+  {
+    "name": "Restaurant Furama C.A.",
+    "rif": "J300583430",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 192
+  },
+  {
+    "name": "Supermarket 2028, C.A.",
+    "rif": "J501493677",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 193
+  },
+  {
+    "name": "Super Tienda Internacional, C.A.",
+    "rif": "J295016379",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 194
+  },
+  {
+    "name": "Lila Super Market, C.A.",
+    "rif": "J298164310",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 195
+  },
+  {
+    "name": "Farmacia Y Multitiendas Las Rubio C.A.",
+    "rif": "J299310131",
+    "direccion": "AV 15 DELICIAS EDIFICIO MARAPLUS LOCALES 70-72 MARACAIBO ZULIA",
+    "sada": "753106",
+    "vendorId": "gerardo_hernandez",
+    "id": 196
+  },
+  {
+    "name": "Super Panaderia Sagres Millenium, Compañía Anonima (Supansam)",
+    "rif": "J297523103",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 197
+  },
+  {
+    "name": "Inversiones Emca, C.A.",
+    "rif": "J311396225",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 198
+  },
+  {
+    "name": "Distribuidora Y Procesadora De Alimento El Triunfo C.A.",
+    "rif": "J316488241",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 199
+  },
+  {
+    "name": "Inversiones Viva Venezuela K & E, C.A.",
+    "rif": "J410543957",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 200
+  },
+  {
+    "name": "Multitiendas J10, C.A.",
+    "rif": "J504705438",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 201
+  },
+  {
+    "name": "Farma Servicios La Fuente Bellas Artes, C.A.",
+    "rif": "J504471895",
+    "direccion": "AV. 3F ESQUINA CALLE 67 EDIF. LA FUENTE PISO PB LOCAL 1 SECTOR BELLAS ARTES",
+    "sada": "975484",
+    "vendorId": "gerardo_hernandez",
+    "id": 202
+  },
+  {
+    "name": "Farmacia Farma Express Fuerzas Armadas",
+    "rif": "J502630600",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 203
+  },
+  {
+    "name": "Miguel Rafael Viveres Y Algo Más, C.A.",
+    "rif": "J403903174",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 204
+  },
+  {
+    "name": "Supermarket Flor De Loto",
+    "rif": "J502198083",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 205
+  },
+  {
+    "name": "Panaderia Y Pasteleria Nueva Virgen De Coromoto",
+    "rif": "J503128933",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 206
+  },
+  {
+    "name": "Barbacoa Deli Market, C.A.",
+    "rif": "J406455717",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 207
+  },
+  {
+    "name": "Farmacia Farma Servicio Maracaibo, C.A.",
+    "rif": "J406823570",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 208
+  },
+  {
+    "name": "Licores De Freitas Parraga, C.A.",
+    "rif": "J408151782",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 209
+  },
+  {
+    "name": "Inversiones Ma & Gre, C.A.",
+    "rif": "J408180162",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 210
+  },
+  {
+    "name": "Cocina Express, C.A.",
+    "rif": "J409508846",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 211
+  },
+  {
+    "name": "Super Hogar Metropolis, CA",
+    "rif": "J410838736",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 212
+  },
+  {
+    "name": "Comercializadora Fito",
+    "rif": "J312537540",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 213
+  },
+  {
+    "name": "Grupo Bisteka, C.A.",
+    "rif": "J412071130",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 214
+  },
+  {
+    "name": "Farmacia Farma Express 24 Bella Vista, C.A.",
+    "rif": "J412793365",
+    "direccion": "AV 4 BELLA VISTA CON CALLE 66 LOCAL SN SECTOR BELLA",
+    "sada": "868220",
+    "vendorId": "gerardo_hernandez",
+    "id": 215
+  },
+  {
+    "name": "Inversiones Nueva Imagen 2019, C.A. (OK)",
+    "rif": "J413027593",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 216
+  },
+  {
+    "name": "Trigo Pan Inversiones, C.A. (La Romelia Doral)",
+    "rif": "J503147547",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 217
+  },
+  {
+    "name": "Comercial El Milagro 2019, C.A.",
+    "rif": "J413036215",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 218
+  },
+  {
+    "name": "Inversiones Abastos Robertico, C.A.",
+    "rif": "J407947818",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 219
+  },
+  {
+    "name": "Inversiones Hernalith, C.A.",
+    "rif": "J500767633",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 220
+  },
+  {
+    "name": "Inversiones R Y C 2019, C.A.",
+    "rif": "J412583409",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 221
+  },
+  {
+    "name": "Multitiendas Don Justo 2020, C.A.",
+    "rif": "J500473044",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 222
+  },
+  {
+    "name": "Inversiones Eudimeris, C.A.",
+    "rif": "J405155108",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 223
+  },
+  {
+    "name": "Supermercado Nueva Era, C.A.",
+    "rif": "J401011349",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 224
+  },
+  {
+    "name": "Supermercado Chinita 88",
+    "rif": "J402737947",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 225
+  },
+  {
+    "name": "Comercial Porvenir 2019, C.A.",
+    "rif": "J413042355",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 226
+  },
+  {
+    "name": "Fikomcbo Panaderia, C.A.",
+    "rif": "J506206013",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 227
+  },
+  {
+    "name": "Douglas Angel Guerrero Pirela",
+    "rif": "V112930716",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 228
+  },
+  {
+    "name": "Inversiones Mamaota 2019, C.A.",
+    "rif": "J413089769",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 229
+  },
+  {
+    "name": "Farmacia Farma Servicios Bella Vista, C.A.",
+    "rif": "J500570120",
+    "direccion": "Calle 74 entre Av. 4(antes de Bella Vista) y Av. 8(antes de Santa Rita) casa S-N. Sector Santa Rita Maracaibo ZP 4002",
+    "sada": "740331",
+    "vendorId": "gerardo_hernandez",
+    "id": 230
+  },
+  {
+    "name": "Minimarket El Laberinto, C.A.",
+    "rif": "J500664710",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 231
+  },
+  {
+    "name": "Supermercado Y Fruteria California, C.A.",
+    "rif": "J070091088",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 232
+  },
+  {
+    "name": "Charcuteria Y Panaderia Estrella De Maracaibo, C.A.",
+    "rif": "J500369743",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 233
+  },
+  {
+    "name": "Farmacia Y Servicios Las Delicias, C.A.",
+    "rif": "J501526397",
+    "direccion": "Av 15 (Delicias) esquina calle 78 (Dr. Portillo) local S-N sector Delicias Maracaibo Edo. Zulia ZP 4002",
+    "sada": "753112",
+    "vendorId": "gerardo_hernandez",
+    "id": 234
+  },
+  {
+    "name": "Ricardo Jose Gil Rivero",
+    "rif": "V079755164",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 235
+  },
+  {
+    "name": "Operadora LP, Compañía Anonima (Nuevo)",
+    "rif": "J501483671",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 236
+  },
+  {
+    "name": "Farmacia Farma Servicios La Coromoto, C.A.",
+    "rif": "J500337094",
+    "direccion": "Avenida 41 entre calle 168 y 171 Casa 40-200. Urb La Coromoto, Municipio San Francisco Estado Zulia",
+    "sada": "764752",
+    "vendorId": "gerardo_hernandez",
+    "id": 237
+  },
+  {
+    "name": "Farma Servicios Maraplus Ciudad Ojeda",
+    "rif": "No especificado",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 238
+  },
+  {
+    "name": "Fresh Market II, C.A. (Av 10)",
+    "rif": "J501840687",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 239
+  },
+  {
+    "name": "Distribuidora Dios en ti confío, C.A.",
+    "rif": "J238769530",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 240
+  },
+  {
+    "name": "Panadería Nauras, C.A.",
+    "rif": "J309858513",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 241
+  },
+  {
+    "name": "Supermercado MO 88",
+    "rif": "J504308420",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 242
+  },
+  {
+    "name": "Jhonatan David Rodríguez Gómez (F.P)",
+    "rif": "V267087357",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 243
+  },
+  {
+    "name": "Comercial e Inversiones La Amistad, C.A.",
+    "rif": "J501848807",
+    "direccion": "Av.32 Esquina San Mateo local S-N sector Campo Lindo Cabimas Estado Zulia zona postal 4013",
+    "sada": "871686",
+    "vendorId": "reinaldo_rojo",
+    "id": 244
+  },
+  {
+    "name": "Supermercado Gran Pingüino, C.A.",
+    "rif": "J297307621",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 245
+  },
+  {
+    "name": "Maxi Pingüino",
+    "rif": "J412877135",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 246
+  },
+  {
+    "name": "Supermercado Casa Cabimas, C.A.",
+    "rif": "J502233270",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 247
+  },
+  {
+    "name": "Camino Nuevo, C.A.",
+    "rif": "J310120412",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 248
+  },
+  {
+    "name": "Supermercado Lin Lan, C.A.",
+    "rif": "J311508775",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 249
+  },
+  {
+    "name": "Panadería y Pastelería La Ribereña, C.A.",
+    "rif": "J311549854",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 250
+  },
+  {
+    "name": "Chang Distribuciones, C.A.",
+    "rif": "J403468524",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 251
+  },
+  {
+    "name": "Panadería y Pastelería 2000, C.A.",
+    "rif": "J315082560",
+    "direccion": "carretera I entre av 32 y 33 cc agua marina nivel pb local 01-02-03 sector la I",
+    "sada": "87437",
+    "vendorId": "reinaldo_rojo",
+    "id": 252
+  },
+  {
+    "name": "Automercados Aime, C.A.",
+    "rif": "J313051144",
+    "direccion": "CARRT. J CON ESQUINA AV. 13 SECTOR LOS MEDANOS ENTRANDO POR EL HOTEL DIMAYO CABIMAS",
+    "sada": "2097",
+    "vendorId": "reinaldo_rojo",
+    "id": 253
+  },
+  {
+    "name": "Distribuidora y Abasto Los 3 Compadres",
+    "rif": "J309328310",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 254
+  },
+  {
+    "name": "Embutidos América, C.A.",
+    "rif": "J316127907",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 255
+  },
+  {
+    "name": "Supermercado Gran Zulia",
+    "rif": "J316208800",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 256
+  },
+  {
+    "name": "Automercado Su Casa, C.A.",
+    "rif": "J316295427",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 257
+  },
+  {
+    "name": "Inversiones La Muralla, C.A.",
+    "rif": "J400440670",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 258
+  },
+  {
+    "name": "Comercial Amistad, C.A.",
+    "rif": "J402674000",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 259
+  },
+  {
+    "name": "Distribuidora Campos II, C.A.",
+    "rif": "J410169265",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 260
+  },
+  {
+    "name": "Panadería, Pastelería y Delicateses Espiga Dorada, C.A.",
+    "rif": "J299132748",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 261
+  },
+  {
+    "name": "Express Pandona, C.A.",
+    "rif": "J502565477",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 262
+  },
+  {
+    "name": "Comercial Mene Nana, C.A.",
+    "rif": "J410148039",
+    "direccion": "av carnevalli local sin numero zona comercial mene grande",
+    "sada": "617622",
+    "vendorId": "reinaldo_rojo",
+    "id": 263
+  },
+  {
+    "name": "Comercial Lucky Feng, C.A.",
+    "rif": "J413074737",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 264
+  },
+  {
+    "name": "Distribuidora y Charcutería Bolívar, C.A.",
+    "rif": "J405797835",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 265
+  },
+  {
+    "name": "Comercial Amigo, Compañía Anónima",
+    "rif": "J402674961",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 266
+  },
+  {
+    "name": "Panadería Venezuela",
+    "rif": "J303712819",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 267
+  },
+  {
+    "name": "Hipermercado RK, C.A.",
+    "rif": "J317474759",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 268
+  },
+  {
+    "name": "Mega Inversiones La Familia, C.A.",
+    "rif": "J411551252",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 269
+  },
+  {
+    "name": "Like Coffee, Compañía Anónima",
+    "rif": "J409927300",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 270
+  },
+  {
+    "name": "Pignatelli, Sociedad Anónima",
+    "rif": "J409281817",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 271
+  },
+  {
+    "name": "Panadería y Pastelería La Costa, C.A.",
+    "rif": "J306510834",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 272
+  },
+  {
+    "name": "Comercial del Zulia, C.A.",
+    "rif": "J315300346",
+    "direccion": "AV PRINCIPAL ZONA COMERCIAL BACHAQUERO LOCAL 100 MUNICIPIO VALMOREZ RODRIGUES",
+    "sada": "182079",
+    "vendorId": "reinaldo_rojo",
+    "id": 273
+  },
+  {
+    "name": "Supermercado Centro Sol, C.A.",
+    "rif": "J504652741",
+    "direccion": "AV BOLIVAR, LOCAL NRO. S-N, SECTOR CASCO CENTRAL, CIUDAD OJEDA, ESTADO ZULIA",
+    "sada": "908912",
+    "vendorId": "reinaldo_rojo",
+    "id": 274
+  },
+  {
+    "name": "Multitiendas Éxito, C.A.",
+    "rif": "J504039144",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 275
+  },
+  {
+    "name": "Panadería y Pastelería D´Lina, C.A.",
+    "rif": "J401697828",
+    "direccion": "AV. INTERCOMUNAL LOCAL 156 SECTOR LAS MOROCHAS",
+    "sada": "151949",
+    "vendorId": "reinaldo_rojo",
+    "id": 276
+  },
+  {
+    "name": "Inversora y Comercializadora P´soila, C.A.",
+    "rif": "J408959976",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 277
+  },
+  {
+    "name": "Super Tienda La H, C.A.",
+    "rif": "J502306196",
+    "direccion": "AV INDEPENDENCIA PRINPICAL LOCAL NR S/N SECTOR CASCO CENTRAL CABIMAS ZULIA ZONA POSTAL 4013",
+    "sada": "989626",
+    "vendorId": "reinaldo_rojo",
+    "id": 278
+  },
+  {
+    "name": "Carnicería y Charcutería Puro Lomo, C.A.",
+    "rif": "J501669996",
+    "direccion": "AV BOLIVAR LA CURVITA FRENTE A LA POPULAR DEL ZULIA PV",
+    "sada": "986388",
+    "vendorId": "reinaldo_rojo",
+    "id": 279
+  },
+  {
+    "name": "Panadería y Pastelería Mis Gemelos, C.A.",
+    "rif": "J405282053",
+    "direccion": "Calle colon local centro comercial america nro 1 y 2 sector puerto nuevo lagunillas zulia",
+    "sada": "982269",
+    "vendorId": "reinaldo_rojo",
+    "id": 280
+  },
+  {
+    "name": "Carnicería & Charcutería Vargas, S.A. (C&C Vargas, C.A.)",
+    "rif": "J401219241",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 281
+  },
+  {
+    "name": "Distribuidora Las Hijas del Rey, C.A.",
+    "rif": "J412611828",
+    "direccion": "AV PEDRO LUCAS URRIBARRI LOCAL NRO SIN NUMERO SECTOR PUNTA IGUANA NORTE PALMAREJO",
+    "sada": "714643",
+    "vendorId": "reinaldo_rojo",
+    "id": 282
+  },
+  {
+    "name": "Panadería Comercializadora Paula & Pamela, C.A.",
+    "rif": "J410132299",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 283
+  },
+  {
+    "name": "Viveres, Charcutería Pa Q´rainer, C.A.",
+    "rif": "J311358684",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 284
+  },
+  {
+    "name": "Supermercado San Tomé, C.A.",
+    "rif": "J401039340",
+    "direccion": "Carretera, N Barrio Unión, Local Nro. 132-B Frente a sucursal BANCO BANESCO CIUDAD OJEDA, CUIDAD OJEDA, MUNICIPIO LAGUINILLAS-ESTADO ZULIA",
+    "sada": "137579",
+    "vendorId": "reinaldo_rojo",
+    "id": 285
+  },
+  {
+    "name": "Inversiones Market M&M, C.A.",
+    "rif": "J502400109",
+    "direccion": "VDE 02 CASA NRO 06 URB LOS LAURELES CABIMAS ESTADO ZULIA",
+    "sada": "878304",
+    "vendorId": "reinaldo_rojo",
+    "id": 286
+  },
+  {
+    "name": "Supermercado Lima, S.A.",
+    "rif": "J070402261",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 287
+  },
+  {
+    "name": "Supertienda Lucky, C.A.",
+    "rif": "J298271744",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 288
+  },
+  {
+    "name": "Mercantil Hong Kong Cabimas, C.A.",
+    "rif": "J401071872",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 289
+  },
+  {
+    "name": "Panificadora Los Monjes Compañía Anónima",
+    "rif": "J504306282",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 290
+  },
+  {
+    "name": "Inversiones La Popular 2121, C.A.",
+    "rif": "J295013914",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 291
+  },
+  {
+    "name": "Inversiones Abimael, C.A.",
+    "rif": "J405634456",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 292
+  },
+  {
+    "name": "Panificadora y Pastelería San José Portugués, C.A.",
+    "rif": "J408533294",
+    "direccion": "ctra h con esq jose gregorio hernandez casa 472 barrio federacion",
+    "sada": "542158",
+    "vendorId": "reinaldo_rojo",
+    "id": 293
+  },
+  {
+    "name": "Panadería San José Portugués, C.A.",
+    "rif": "J306421076",
+    "direccion": "CALLE CUMANA AV 31 NRO S/N SECTOR CAMPO ELIAS FRENTE A ELADOS EFE CABIMAS ESTADO ZULIA",
+    "sada": "12516",
+    "vendorId": "reinaldo_rojo",
+    "id": 294
+  },
+  {
+    "name": "Alimentos Luna, C.A.",
+    "rif": "J501099723",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 295
+  },
+  {
+    "name": "Multitienda Inter Salud, C.A.",
+    "rif": "J502249516",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 296
+  },
+  {
+    "name": "Supermercado Exce Mundo, S.A.",
+    "rif": "J404993410",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 297
+  },
+  {
+    "name": "Panadería, Pastelería y Charcutería Buenos Aires, C.A.",
+    "rif": "J405306653",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 298
+  },
+  {
+    "name": "Super Teq",
+    "rif": "J301334981",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 299
+  },
+  {
+    "name": "Agrotienda Mariana, C.A.",
+    "rif": "J403185646",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 300
+  },
+  {
+    "name": "Supermercado H72, C.A.",
+    "rif": "J500336802",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 301
+  },
+  {
+    "name": "Farmacia Super Salud del Zulia",
+    "rif": "J407332775",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 302
+  },
+  {
+    "name": "Farmacia Farmaestrella",
+    "rif": "J403154490",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 303
+  },
+  {
+    "name": "Supermercado La Muralla II, C.A.",
+    "rif": "J501343705",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 304
+  },
+  {
+    "name": "Usine La China, C.A.",
+    "rif": "J404920609",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 305
+  },
+  {
+    "name": "Hipermercado Dale, C.A.",
+    "rif": "J405530170",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 306
+  },
+  {
+    "name": "Novillos, C.A.",
+    "rif": "J409662004",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 307
+  },
+  {
+    "name": "Supermercado Super Todo, C.A.",
+    "rif": "J298326697",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 308
+  },
+  {
+    "name": "Supermercado Oriental, C.A.",
+    "rif": "J294654185",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 309
+  },
+  {
+    "name": "Tito's Pizza",
+    "rif": "J316138259",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 310
+  },
+  {
+    "name": "Supermercado Hong Kong, C.A.",
+    "rif": "J266362793",
+    "direccion": "CARRETERA NACIONAL CC PIVECA PLANTA BAJA SECTOR PUERTO NUEVO",
+    "sada": "53357",
+    "vendorId": "reinaldo_rojo",
+    "id": 311
+  },
+  {
+    "name": "Panificadora Rossi, C.A.",
+    "rif": "J317229738",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 312
+  },
+  {
+    "name": "Inversiones y Distribuidora Velasquez, C.A.",
+    "rif": "J409845281",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 313
+  },
+  {
+    "name": "Supermercado La Gran Familia 2022, C.A.",
+    "rif": "J502165282",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 314
+  },
+  {
+    "name": "Comercial Xing Xing 168, C.A.",
+    "rif": "J298233044",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 315
+  },
+  {
+    "name": "Comercial Chen, C.A.",
+    "rif": "J299179760",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 316
+  },
+  {
+    "name": "Supermercado Mene Grande, C.A.",
+    "rif": "J299314943",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 317
+  },
+  {
+    "name": "Occidental de Alimentos, C.A.",
+    "rif": "J294554679",
+    "direccion": "Avenida Intercomunal, Esquina Calle Arismendi, Edf. Bertona, Locales Comerciales 1-A Y 1-B, Ciudad Ojeda Municipio Autónomo Lagunilla del Estado ZUlia",
+    "sada": "124669",
+    "vendorId": "reinaldo_rojo",
+    "id": 318
+  },
+  {
+    "name": "Comercial Santa Rosa, S.A.",
+    "rif": "J305108900",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 319
+  },
+  {
+    "name": "Distribuidora La Popular de la Costa Oriental del Lago, C.A.",
+    "rif": "J314042203",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 320
+  },
+  {
+    "name": "Inversiones Olda, C.A.",
+    "rif": "J412968343",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 321
+  },
+  {
+    "name": "Llanero Grill, C.A.",
+    "rif": "J405228504",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 322
+  },
+  {
+    "name": "Viveres de Candido (Cabimas)",
+    "rif": "J070201525",
+    "direccion": "Av. Universidad con Calle Chile, Sector Las Cuarenta, C.C. De Candido",
+    "sada": "16671",
+    "vendorId": "reinaldo_rojo",
+    "id": 323
+  },
+  {
+    "name": "Viveres de Candido (Ciudad Ojeda)",
+    "rif": "J070201525",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 324
+  },
+  {
+    "name": "Comercial y Viveres Huang de Chaoguo Huang (F.P.)",
+    "rif": "E844892368",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 325
+  },
+  {
+    "name": "Supermercado Jota Jota, C.A.",
+    "rif": "J403976732",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 326
+  },
+  {
+    "name": "Distribuidora y Charcutería Rey de Reyes, C.A.",
+    "rif": "J404263489",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 327
+  },
+  {
+    "name": "Hipermercado Latino, C.A.",
+    "rif": "J299798703",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 328
+  },
+  {
+    "name": "Corporación Copa Kimasu I, C.A.",
+    "rif": "J409575950",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 329
+  },
+  {
+    "name": "Gran Éxito 2024, C.A.",
+    "rif": "J504909149",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 330
+  },
+  {
+    "name": "Auto Mercado He, C.A.",
+    "rif": "J297813080",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 331
+  },
+  {
+    "name": "Mercantil de Crédito N, C.A.",
+    "rif": "J407317440",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 332
+  },
+  {
+    "name": "Charcutería La Rendidora, C.A.",
+    "rif": "J298764392",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 333
+  },
+  {
+    "name": "Super Ofertón, C.A.",
+    "rif": "J310659575",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 334
+  },
+  {
+    "name": "Comercial King II, C.A.",
+    "rif": "J311975721",
+    "direccion": "Municipio Lagunillas, Avenida Intercomunal, sector las Morochas, Calle Centro, al lado del Banco Provincial, local comercial distinguido con el N 1, 2 Y 3",
+    "sada": "118954",
+    "vendorId": "reinaldo_rojo",
+    "id": 335
+  },
+  {
+    "name": "Supermercado Unión, C.A.",
+    "rif": "J312206780",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 336
+  },
+  {
+    "name": "Supermercado Primero, C.A.",
+    "rif": "J400717396",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 337
+  },
+  {
+    "name": "Hipermercado Nueva Victor Hinestrozaia, C.A.",
+    "rif": "J402306725",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 338
+  },
+  {
+    "name": "Gran Surtido 2015",
+    "rif": "J405026006",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 339
+  },
+  {
+    "name": "Centro Sol C.A (Centro Sol C.A.)",
+    "rif": "J413158442",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 340
+  },
+  {
+    "name": "Supermercado Gran Mundo 88, C.A.",
+    "rif": "J500978979",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 341
+  },
+  {
+    "name": "Cuichan Zhao",
+    "rif": "E838920430",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 342
+  },
+  {
+    "name": "Supertienda El Panda, C.A.",
+    "rif": "J400660513",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 343
+  },
+  {
+    "name": "Comercial Mene Nana, C.A. (Nuevo)",
+    "rif": "J-097592973",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 344
+  },
+  {
+    "name": "Panadería y Pastelería Pan Baralt",
+    "rif": "J297172262",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "reinaldo_rojo",
+    "id": 345
+  },
+  {
+    "name": "Comercial Éxito 28, C.A.",
+    "rif": "J503648821",
+    "direccion": "No posee",
+    "sada": "892305",
+    "vendorId": "edwar_ruiz",
+    "id": 346
+  },
+  {
+    "name": "Nueva Amistad, C.A.",
+    "rif": "J501055726",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 347
+  },
+  {
+    "name": "Familia Center, C.A.",
+    "rif": "J501398836",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 348
+  },
+  {
+    "name": "Al Kosto Donde Comprar Es Ganar, C.A. (Cabimas)",
+    "rif": "J413243580",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 350
+  },
+  {
+    "name": "Karnivora Maracaibo CB, C.A.",
+    "rif": "J503060018",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 351
+  },
+  {
+    "name": "Super Tienda Amistad C.A.",
+    "rif": "J406297852",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 352
+  },
+  {
+    "name": "Club La Roca C.A.",
+    "rif": "J304794169",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 355
+  },
+  {
+    "name": "Restaurant Chinatown, C.A.",
+    "rif": "J306974385",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 357
+  },
+  {
+    "name": "Fabrica Comercializadora Y Distribuidora San Jose, C.A.",
+    "rif": "J506142007",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 358
+  },
+  {
+    "name": "Condimentos Terranova, C.A.",
+    "rif": "J503810211",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 359
+  },
+  {
+    "name": "Supermercado Y Distribuidora Santa Barbara, C.A.",
+    "rif": "J505142763",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 360
+  },
+  {
+    "name": "Confetti Market, C.A.",
+    "rif": "J501627924",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 361,
+    "vendor": "edwar_ruiz",
+    "address": "C.C. Ciudad Chinita, Avenida 18 Padilla, Casco Central, Parroquia Chiquinquirá, Municipio Maracaibo, Estado Zulia, 4000, Venezuela",
+    "location": {
+      "lat": 10.644836538328434,
+      "lng": -71.61765655177236
+    }
+  },
+  {
+    "name": "Grupo Empresarial Tu Finca, C.A.",
+    "rif": "J504714020",
+    "direccion": "CALLE 65 (ANTES CALLE VALENCIA) LOCAL NRO 3D-39 SECTOR SANTA RITA",
+    "sada": "993233",
+    "vendorId": "edwar_ruiz",
+    "id": 362
+  },
+  {
+    "name": "Alianza Valle Frio, C.A.",
+    "rif": "J505071866",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 363
+  },
+  {
+    "name": "Al Kosto Donde Comprar Es Ganar C.A (San Felipe-Centro)",
+    "rif": "J413243580",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 364,
+    "vendor": "edwar_ruiz",
+    "address": "Avenida Las Delicias, El Saladillo, Parroquia Chiquinquirá, Municipio Maracaibo, Estado Zulia, 4001, Venezuela",
+    "location": {
+      "lat": 10.642061381668718,
+      "lng": -71.61778960529313
+    }
+  },
+  {
+    "name": "Al Kosto Donde Comprar Es Ganar C.A (Plaza Baralt)",
+    "rif": "J413243580",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 365,
+    "vendor": "edwar_ruiz",
+    "address": "Casco Central, Parroquia Bolívar, Municipio Maracaibo, Estado Zulia, 4000, Venezuela",
+    "location": {
+      "lat": 10.64015314561926,
+      "lng": -71.61120362884495
+    }
+  },
+  {
+    "name": "Al Kosto Donde Comprar Es Ganar C.A (Av 15 Delicias)",
+    "rif": "J413243580",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 366
+  },
+  {
+    "name": "Familia Center, C.A. (Plaza Lago)",
+    "rif": "J501398836",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 367,
+    "vendor": "edwar_ruiz",
+    "address": "C.C. Plaza Lago, Distribuidor Lossada, El Saladillo, Parroquia Chiquinquirá, Municipio Maracaibo, Estado Zulia, 4001, Venezuela",
+    "location": {
+      "lat": 10.638940541057497,
+      "lng": -71.6179691105527
+    }
+  },
+  {
+    "name": "Familia Center, C.A. (Calle 43. Monte Claro)",
+    "rif": "J501398836",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 368
+  },
+  {
+    "name": "Familia Center, C.A. (Calle J Con Av 12)",
+    "rif": "J501398836",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 369
+  },
+  {
+    "name": "Super Rio Market, C.A.",
+    "rif": "J503684500",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 370
+  },
+  {
+    "name": "Distribuidora Y Comercializadora San Benito Por Tradición C.A.",
+    "rif": "J500355971",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 371
+  },
+  {
+    "name": "Roberto Menegaldo OFICINA",
+    "rif": "V10447306",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 372
+  },
+  {
+    "name": "Farmacia Farmaexpres 24, C.A. (El Milagro)",
+    "rif": "J403391726",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 373,
+    "vendor": "edwar_ruiz",
+    "address": "Avenida El Milagro, Cerros del Vigía, Parroquia Santa Lucía, Municipio Maracaibo, Estado Zulia, 0261, Venezuela",
+    "location": {
+      "lat": 10.66622824838994,
+      "lng": -71.59340389155989
+    }
+  },
+  {
+    "name": "Industrias Del Bordado Y Textil, C.A.",
+    "rif": "J311770917",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 374
+  },
+  {
+    "name": "Mega Market Centro Del Sol, C.A.",
+    "rif": "J504171077",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 375
+  },
+  {
+    "name": "Restaurant La Nueva Babilonia, C.A.",
+    "rif": "J307945400",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 376
+  },
+  {
+    "name": "Supertienda Belloso 2023, C.A.",
+    "rif": "J503507420",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 377
+  },
+  {
+    "name": "Panaderia Pasteleria Y Carniceria El Milagro, C.A.",
+    "rif": "J070347260",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 378,
+    "vendor": "edwar_ruiz",
+    "address": "Avenida El Milagro, Parroquia Olegario Villalobos, Municipio Maracaibo, Estado Zulia, 5689, Venezuela",
+    "location": {
+      "lat": 10.665817629616177,
+      "lng": -71.59313399552414
+    }
+  },
+  {
+    "name": "Familia Center, C.A. (Calle 79)",
+    "rif": "J501398836",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 380
+  },
+  {
+    "name": "Olano Market Delicias, C.A.",
+    "rif": "J505858750",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 381
+  },
+  {
+    "name": "Tutto Casa Shop, C.A.",
+    "rif": "J505285912",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 382
+  },
+  {
+    "name": "Al Kosto Donde Comprar Es Ganar C.A. (San Francisco)",
+    "rif": "J413243580",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 383
+  },
+  {
+    "name": "Cow Restaurant Gourmet, C.A.",
+    "rif": "J502410058",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 384
+  },
+  {
+    "name": "Distribuidora Chinita, C.A. (Chops)",
+    "rif": "J409038254",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 385
+  },
+  {
+    "name": "Gourmet Jerusalen Santa C.A.",
+    "rif": "J404160442",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 386
+  },
+  {
+    "name": "Supermercado Naya, C.A.",
+    "rif": "J408081326",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 387,
+    "vendor": "edwar_ruiz",
+    "address": "Casco Central, Parroquia Bolívar, Municipio Maracaibo, Estado Zulia, 4000, Venezuela",
+    "location": {
+      "lat": 10.640168673846146,
+      "lng": -71.6148756095468
+    }
+  },
+  {
+    "name": "Al Kosto Donde Comprar Es Ganar C.A. (Galpon)",
+    "rif": "J413243580",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 388
+  },
+  {
+    "name": "Alimentos Calven C.A.",
+    "rif": "J298630728",
+    "direccion": "No posee",
+    "sada": "969334",
+    "vendorId": "edwar_ruiz",
+    "id": 389
+  },
+  {
+    "name": "Panaderia Y Pasteleria Euro 2000 C.A.",
+    "rif": "J306257314",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 390
+  },
+  {
+    "name": "Charcuteria Fina C.A.",
+    "rif": "J070137290",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 391
+  },
+  {
+    "name": "Charcuteria Y Panaderia Las Rosas, C.A.",
+    "rif": "J316268250",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 392
+  },
+  {
+    "name": "Farmacia Ya Avenida Universidad, C.A.",
+    "rif": "J411801313",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 394
+  },
+  {
+    "name": "Farmacia La Lago Ya, C.A.",
+    "rif": "J298069783",
+    "direccion": "No posee",
+    "sada": "191268",
+    "vendorId": "edwar_ruiz",
+    "id": 396
+  },
+  {
+    "name": "Farmacia Ya Tierra Negra, C.A.",
+    "rif": "J400145171",
+    "direccion": "No posee",
+    "sada": "680339",
+    "vendorId": "edwar_ruiz",
+    "id": 397
+  },
+  {
+    "name": "Farmaplus Cecilio Acosta, C.A.",
+    "rif": "J502231749",
+    "direccion": "AV 8 SANTA RITA LOCAL NRO 57000 SECTOR BELLA VISTA",
+    "sada": "976997",
+    "vendorId": "edwar_ruiz",
+    "id": 399
+  },
+  {
+    "name": "Claudio Marrone OFICINA",
+    "rif": "V13365938",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 401
+  },
+  {
+    "name": "Operadora Cansua, C.A.",
+    "rif": "J504940941",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 402
+  },
+  {
+    "name": "Smashack Venezuela, C.A.",
+    "rif": "J500565208",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 403
+  },
+  {
+    "name": "Super Tienda La Gran Variedad, C.A.",
+    "rif": "J505014773",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 405
+  },
+  {
+    "name": "La Macelleria Mcbo C.A.",
+    "rif": "J503728442",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 407
+  },
+  {
+    "name": "Verde Pistacho Fit Y Saludable C.A.",
+    "rif": "J404575545",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 408
+  },
+  {
+    "name": "Evera Distribuciones C.A. (Edisca)",
+    "rif": "J502859063",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 409
+  },
+  {
+    "name": "Panaderia Y Delicateces Pan De Vida, C.A.",
+    "rif": "J411138169",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 410,
+    "vendor": "edwar_ruiz",
+    "address": "Avenida 9, Casco Central, Parroquia Bolívar, Municipio Maracaibo, Estado Zulia, 4000, Venezuela",
+    "location": {
+      "lat": 10.644919738681278,
+      "lng": -71.61143497020339
+    }
+  },
+  {
+    "name": "Inversiones Paul, C.A. (Jeffreys)",
+    "rif": "J307354232",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 411
+  },
+  {
+    "name": "Justo & Bueno, C.A.",
+    "rif": "J412757857",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 413
+  },
+  {
+    "name": "La Crema De Los Lacteos",
+    "rif": "J307214309",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 414
+  },
+  {
+    "name": "Comercial Henry's, C.A.",
+    "rif": "J500117302",
+    "direccion": "No posee",
+    "sada": "97726",
+    "vendorId": "edwar_ruiz",
+    "id": 415
+  },
+  {
+    "name": "Mega 72, C.A.",
+    "rif": "J311456759",
+    "direccion": "No posee",
+    "sada": "2951",
+    "vendorId": "edwar_ruiz",
+    "id": 416
+  },
+  {
+    "name": "Grupo Ras Milagro, C.A.",
+    "rif": "J502499334",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 417,
+    "vendor": "edwar_ruiz",
+    "address": "LagoMarket, Avenida El Milagro, Cerros del Vigía, Parroquia Olegario Villalobos, Municipio Maracaibo, Estado Zulia, 0261, Venezuela",
+    "location": {
+      "lat": 10.666914149366262,
+      "lng": -71.59288259243877
+    }
+  },
+  {
+    "name": "Panaderia Y Pasteleria La Gran Fundación, C.A.",
+    "rif": "J501951365",
+    "direccion": "No posee",
+    "sada": "881435",
+    "vendorId": "edwar_ruiz",
+    "id": 418
+  },
+  {
+    "name": "Panaderia Ritz 72 C.A.",
+    "rif": "J070300019",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 419
+  },
+  {
+    "name": "Super Enne 2000 72, C.A. (Bella Vista)",
+    "rif": "J070558393",
+    "direccion": "No posee",
+    "sada": "12263",
+    "vendorId": "edwar_ruiz",
+    "id": 420
+  },
+  {
+    "name": "Plastic Norte Express, C.A.",
+    "rif": "J410033223",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 421
+  },
+  {
+    "name": "Punto 72 Supermarket, C.A.",
+    "rif": "J400923409",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 422
+  },
+  {
+    "name": "Supermercado Samba Latino, C.A.",
+    "rif": "J412761862",
+    "direccion": "No posee",
+    "sada": "713960",
+    "vendorId": "edwar_ruiz",
+    "id": 423
+  },
+  {
+    "name": "Farmacia Farmaexpress Norte, C.A.",
+    "rif": "J500110510",
+    "direccion": "No posee",
+    "sada": "742613",
+    "vendorId": "edwar_ruiz",
+    "id": 424
+  },
+  {
+    "name": "Distribuidora Katy, C.A.",
+    "rif": "J296296782",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 425
+  },
+  {
+    "name": "Panaderia Big Pan, C.A.",
+    "rif": "J312348992",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 426
+  },
+  {
+    "name": "Auto Mercado Cosmopolita, C.A.",
+    "rif": "J317155998",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 427
+  },
+  {
+    "name": "Lusitana Express - Panaderia Braga",
+    "rif": "J405225769",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 428
+  },
+  {
+    "name": "Farmacia Farma Express 24 La 72, C.A.",
+    "rif": "J409182002",
+    "direccion": "No posee",
+    "sada": "708985",
+    "vendorId": "edwar_ruiz",
+    "id": 429
+  },
+  {
+    "name": "Inversiones Monaco (Pergamino Café)",
+    "rif": "J403408734",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 430
+  },
+  {
+    "name": "Panaderia Mansion Paris (Cliente Recuperado)",
+    "rif": "J400989745",
+    "direccion": "No posee",
+    "sada": "85891",
+    "vendorId": "edwar_ruiz",
+    "id": 431
+  },
+  {
+    "name": "Super Aveiro, C.A.",
+    "rif": "J400015022",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 432
+  },
+  {
+    "name": "Grupo Clara Storms, C.A.",
+    "rif": "J407492110",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 434
+  },
+  {
+    "name": "Comercializadora Castellano Leal, C.A.",
+    "rif": "J403990921",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 435
+  },
+  {
+    "name": "Super 128, C.A.",
+    "rif": "J412952889",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 436
+  },
+  {
+    "name": "Manufacturas Don Jose, C.A.",
+    "rif": "J400989744",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "edwar_ruiz",
+    "id": 437
+  },
+  {
+    "name": "José Francisco Palencia",
+    "rif": "J026174950",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "victor_hinestroza",
+    "id": 438
+  },
+  {
+    "name": "Supermercado Panadería y Charcutería El Gran Lido, C.A.",
+    "rif": "J298621273",
+    "direccion": "No posee",
+    "sada": "87836",
+    "vendorId": "victor_hinestroza",
+    "id": 439
+  },
+  {
+    "name": "Industrias Alimenticias y Manufactureras Riad Maaz, C.A.",
+    "rif": "J411560146",
+    "direccion": "No posee",
+    "sada": "756168",
+    "vendorId": "victor_hinestroza",
+    "id": 440
+  },
+  {
+    "name": "Super Tienda Latino El Milagro, C.A.",
+    "rif": "J299709590",
+    "direccion": "No posee",
+    "sada": "122937",
+    "vendorId": "victor_hinestroza",
+    "id": 441
+  },
+  {
+    "name": "Supermarket La Occidental, C.A.",
+    "rif": "J504972088",
+    "direccion": "No posee",
+    "sada": "985430",
+    "vendorId": "victor_hinestroza",
+    "id": 442,
+    "vendor": "victor_hinestroza",
+    "address": "Av 25, Parroquia Francisco Ochoa, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.585963778522085,
+      "lng": -71.62332530257125
+    }
+  },
+  {
+    "name": "Super Tienda Latino La Limpia Maracaibo, C.A. (La Limpia)",
+    "rif": "J316597598",
+    "direccion": "No posee",
+    "sada": "25719",
+    "vendorId": "victor_hinestroza",
+    "id": 443
+  },
+  {
+    "name": "Super Tienda Latino C-3",
+    "rif": "J296243719",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "victor_hinestroza",
+    "id": 444
+  },
+  {
+    "name": "Farmacia Farma Express 24 Sur, C.A.",
+    "rif": "J502926909",
+    "direccion": "No posee",
+    "sada": "909147",
+    "vendorId": "victor_hinestroza",
+    "id": 445
+  },
+  {
+    "name": "Super Tienda Latino Delicias, C.A.",
+    "rif": "J311840680",
+    "direccion": "No posee",
+    "sada": "25725",
+    "vendorId": "victor_hinestroza",
+    "id": 446
+  },
+  {
+    "name": "Super Tienda Latino Padilla, C.A.",
+    "rif": "J313060364",
+    "direccion": "No posee",
+    "sada": "25740",
+    "vendorId": "victor_hinestroza",
+    "id": 447
+  },
+  {
+    "name": "Super Tienda Latino, C.A. (Bella Vista)",
+    "rif": "J303801838",
+    "direccion": "No posee",
+    "sada": "124810",
+    "vendorId": "victor_hinestroza",
+    "id": 448
+  },
+  {
+    "name": "Multitiendas 168, C.A.",
+    "rif": "J503316268",
+    "direccion": "No posee",
+    "sada": "916360",
+    "vendorId": "victor_hinestroza",
+    "id": 449
+  },
+  {
+    "name": "A Granel Inversiones, C.A.",
+    "rif": "J501913706",
+    "direccion": "No posee",
+    "sada": "882818",
+    "vendorId": "victor_hinestroza",
+    "id": 450
+  },
+  {
+    "name": "Super Abasto Santo Domingo 8, C.A.",
+    "rif": "J313199842",
+    "direccion": "No posee",
+    "sada": "739804",
+    "vendorId": "victor_hinestroza",
+    "id": 451
+  },
+  {
+    "name": "Super Tienda Máximo, C.A.",
+    "rif": "J405120304",
+    "direccion": "No posee",
+    "sada": "499385",
+    "vendorId": "victor_hinestroza",
+    "id": 452
+  },
+  {
+    "name": "Supermarket La Popular A1, C.A.",
+    "rif": "J503283254",
+    "direccion": "No posee",
+    "sada": "878908",
+    "vendorId": "victor_hinestroza",
+    "id": 453
+  },
+  {
+    "name": "Super Occidental La 15, C.A.",
+    "rif": "J503316241",
+    "direccion": "No posee",
+    "sada": "878722",
+    "vendorId": "victor_hinestroza",
+    "id": 454
+  },
+  {
+    "name": "Distribuidora Famoso Occidente, C.A.",
+    "rif": "J501923256",
+    "direccion": "No posee",
+    "sada": "873928",
+    "vendorId": "victor_hinestroza",
+    "id": 455
+  },
+  {
+    "name": "Panadería El Alemán, C.A.",
+    "rif": "J502823743",
+    "direccion": "No posee",
+    "sada": "983758",
+    "vendorId": "victor_hinestroza",
+    "id": 456
+  },
+  {
+    "name": "Comercial California 2021, C.A.",
+    "rif": "J500583120",
+    "direccion": "No posee",
+    "sada": "900301",
+    "vendorId": "victor_hinestroza",
+    "id": 457
+  },
+  {
+    "name": "Comercial Gran Éxito II, C.A.",
+    "rif": "J298440511",
+    "direccion": "No posee",
+    "sada": "71647",
+    "vendorId": "victor_hinestroza",
+    "id": 458
+  },
+  {
+    "name": "Comercializadora Ale&Fa, C.A.",
+    "rif": "J295840535",
+    "direccion": "No posee",
+    "sada": "113259",
+    "vendorId": "victor_hinestroza",
+    "id": 459
+  },
+  {
+    "name": "Comercializadora Liang Lizeng, C.A.",
+    "rif": "J501928312",
+    "direccion": "No posee",
+    "sada": "882417",
+    "vendorId": "victor_hinestroza",
+    "id": 460
+  },
+  {
+    "name": "Supermarket Milenium, C.A.",
+    "rif": "J504898066",
+    "direccion": "No posee",
+    "sada": "969280",
+    "vendorId": "victor_hinestroza",
+    "id": 461
+  },
+  {
+    "name": "Multitienda Familia, C.A.",
+    "rif": "J505182285",
+    "direccion": "No posee",
+    "sada": "978178",
+    "vendorId": "victor_hinestroza",
+    "id": 462
+  },
+  {
+    "name": "Super Tienda Lucky, C.A.",
+    "rif": "J504794732",
+    "direccion": "No posee",
+    "sada": "982851",
+    "vendorId": "victor_hinestroza",
+    "id": 463
+  },
+  {
+    "name": "Supertienda El Baraton, C.A.",
+    "rif": "J401868100",
+    "direccion": "No posee",
+    "sada": "168286",
+    "vendorId": "victor_hinestroza",
+    "id": 464
+  },
+  {
+    "name": "Alimentos Mar Caribe 2008, C.A.",
+    "rif": "J296906831",
+    "direccion": "No posee",
+    "sada": "155076",
+    "vendorId": "victor_hinestroza",
+    "id": 465
+  },
+  {
+    "name": "Droguería Médica del Sur, C.A",
+    "rif": "J311877053",
+    "direccion": "No posee",
+    "sada": "99023",
+    "vendorId": "victor_hinestroza",
+    "id": 466
+  },
+  {
+    "name": "Farmacia Farmaexpress 24 San Francisco, C.A.",
+    "rif": "J500325371",
+    "direccion": "No posee",
+    "sada": "761875",
+    "vendorId": "victor_hinestroza",
+    "id": 467
+  },
+  {
+    "name": "Gaman Distribuciones, C.A.",
+    "rif": "J500619790",
+    "direccion": "No posee",
+    "sada": "842449",
+    "vendorId": "victor_hinestroza",
+    "id": 468
+  },
+  {
+    "name": "Home Way, C.A.",
+    "rif": "J304621400",
+    "direccion": "No posee",
+    "sada": "119058",
+    "vendorId": "victor_hinestroza",
+    "id": 469
+  },
+  {
+    "name": "Inversiones Franktony, C.A.",
+    "rif": "J404394737",
+    "direccion": "No posee",
+    "sada": "167421",
+    "vendorId": "victor_hinestroza",
+    "id": 470
+  },
+  {
+    "name": "Super Tienda Xie, C.A.",
+    "rif": "J500637683",
+    "direccion": "No posee",
+    "sada": "917560",
+    "vendorId": "victor_hinestroza",
+    "id": 471,
+    "vendor": "victor_hinestroza",
+    "address": "Av 25, Parroquia Francisco Ochoa, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.586375081426265,
+      "lng": -71.62312603103567
+    }
+  },
+  {
+    "name": "Inversiones Trigal, Compañía Anónima",
+    "rif": "J308475122",
+    "direccion": "No posee",
+    "sada": "1859",
+    "vendorId": "victor_hinestroza",
+    "id": 472,
+    "vendor": "victor_hinestroza",
+    "address": "Avenida 5, San Francisco, Parroquia San Francisco, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.546363625868839,
+      "lng": -71.62149634983658
+    }
+  },
+  {
+    "name": "Manufacturas de Anime, C.A.",
+    "rif": "J070084685",
+    "direccion": "No posee",
+    "sada": "208117",
+    "vendorId": "victor_hinestroza",
+    "id": 473
+  },
+  {
+    "name": "Mega Compras Supermercado, C.A.",
+    "rif": "J500256817",
+    "direccion": "No posee",
+    "sada": "756567",
+    "vendorId": "victor_hinestroza",
+    "id": 474
+  },
+  {
+    "name": "Mega Inversiones 2000",
+    "rif": "J412585339",
+    "direccion": "No posee",
+    "sada": "756938",
+    "vendorId": "victor_hinestroza",
+    "id": 475
+  },
+  {
+    "name": "Farma Vid 2024, C.A.",
+    "rif": "J505839020",
+    "direccion": "No posee",
+    "sada": "1000515",
+    "vendorId": "victor_hinestroza",
+    "id": 476
+  },
+  {
+    "name": "Mercapollo y Viveres Zhair, C.A.",
+    "rif": "J315665310",
+    "direccion": "No posee",
+    "sada": "51738",
+    "vendorId": "victor_hinestroza",
+    "id": 477
+  },
+  {
+    "name": "Mini Market Esperanza, C.A.",
+    "rif": "J500454937",
+    "direccion": "No posee",
+    "sada": "842896",
+    "vendorId": "victor_hinestroza",
+    "id": 478
+  },
+  {
+    "name": "Mini Market La Unión, C.A.",
+    "rif": "J409975193",
+    "direccion": "No posee",
+    "sada": "553507",
+    "vendorId": "victor_hinestroza",
+    "id": 479
+  },
+  {
+    "name": "Multi Tienda La Oferta, C.A.",
+    "rif": "J294817777",
+    "direccion": "No posee",
+    "sada": "27071",
+    "vendorId": "victor_hinestroza",
+    "id": 480,
+    "vendor": "victor_hinestroza",
+    "address": "Avenida 5, San Francisco, Parroquia San Francisco, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.552219243353298,
+      "lng": -71.62090530129836
+    }
+  },
+  {
+    "name": "Multitienda Caribe, C.A.",
+    "rif": "J309997459",
+    "direccion": "No posee",
+    "sada": "119488",
+    "vendorId": "victor_hinestroza",
+    "id": 481,
+    "vendor": "victor_hinestroza",
+    "address": "San Francisco, Parroquia San Francisco, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.54603665024609,
+      "lng": -71.621121336927
+    }
+  },
+  {
+    "name": "Multitienda Sur América, C.A.",
+    "rif": "J401563910",
+    "direccion": "No posee",
+    "sada": "138423",
+    "vendorId": "victor_hinestroza",
+    "id": 482
+  },
+  {
+    "name": "Super Tienda La Popular 2024, C.A.",
+    "rif": "J504972002",
+    "direccion": "No posee",
+    "sada": "972906",
+    "vendorId": "victor_hinestroza",
+    "id": 483
+  },
+  {
+    "name": "Nueva Confitería del Sur, C.A. (Elimino Viveres)",
+    "rif": "J309951440",
+    "direccion": "No posee",
+    "sada": "CS551",
+    "vendorId": "victor_hinestroza",
+    "id": 484
+  },
+  {
+    "name": "Omega 3000 Distribución, C.A.",
+    "rif": "J400662141",
+    "direccion": "No posee",
+    "sada": "594070",
+    "vendorId": "victor_hinestroza",
+    "id": 485,
+    "vendor": "victor_hinestroza",
+    "address": "Calle 11, Parroquia Francisco Ochoa, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.587201201003554,
+      "lng": -71.63031771714165
+    }
+  },
+  {
+    "name": "Super Tienda Carrefour, C.A.",
+    "rif": "J505198564",
+    "direccion": "No posee",
+    "sada": "988877",
+    "vendorId": "victor_hinestroza",
+    "id": 486
+  },
+  {
+    "name": "Super Gran Surtido, C.A.",
+    "rif": "J505195743",
+    "direccion": "No posee",
+    "sada": "977387",
+    "vendorId": "victor_hinestroza",
+    "id": 487
+  },
+  {
+    "name": "Supermercado Maximundo, C.A.",
+    "rif": "J503380861",
+    "direccion": "No posee",
+    "sada": "917777",
+    "vendorId": "victor_hinestroza",
+    "id": 488
+  },
+  {
+    "name": "Panadería Super Sagres 2007, C.A.",
+    "rif": "J293679958",
+    "direccion": "Av 15 Casa Nro 22-10 Sierra Maestra",
+    "sada": "613666",
+    "vendorId": "victor_hinestroza",
+    "id": 489
+  },
+  {
+    "name": "Panadería y Charcutería Jehová Raah, C.A.",
+    "rif": "J409154149",
+    "direccion": "No posee",
+    "sada": "517138",
+    "vendorId": "victor_hinestroza",
+    "id": 490
+  },
+  {
+    "name": "Panadería y Pastelería Yudmar, C.A.",
+    "rif": "J296879357",
+    "direccion": "No posee",
+    "sada": "85889",
+    "vendorId": "victor_hinestroza",
+    "id": 491
+  },
+  {
+    "name": "Plásticos y Químicos, C.A.",
+    "rif": "J310276978",
+    "direccion": "No posee",
+    "sada": "181118",
+    "vendorId": "victor_hinestroza",
+    "id": 492
+  },
+  {
+    "name": "Proave, C.A.",
+    "rif": "J070195398",
+    "direccion": "No posee",
+    "sada": "CS560",
+    "vendorId": "victor_hinestroza",
+    "id": 493
+  },
+  {
+    "name": "Procesadora Cárnica D Campo Compañía Anónima",
+    "rif": "J413225417",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "victor_hinestroza",
+    "id": 494
+  },
+  {
+    "name": "Productos Tudela, Sociedad Anónima",
+    "rif": "J309892380",
+    "direccion": "No posee",
+    "sada": "14812",
+    "vendorId": "victor_hinestroza",
+    "id": 495
+  },
+  {
+    "name": "Quesera y Charcutería Jairo, C.A.",
+    "rif": "J303675409",
+    "direccion": "No posee",
+    "sada": "136747",
+    "vendorId": "victor_hinestroza",
+    "id": 496
+  },
+  {
+    "name": "Megatienda La Excelencia, C.A.",
+    "rif": "J504683272",
+    "direccion": "No posee",
+    "sada": "973638",
+    "vendorId": "victor_hinestroza",
+    "id": 497
+  },
+  {
+    "name": "Super Abasto Dragón Sur, C.A.",
+    "rif": "J500181906",
+    "direccion": "No posee",
+    "sada": "744859",
+    "vendorId": "victor_hinestroza",
+    "id": 498,
+    "vendor": "victor_hinestroza",
+    "address": "Avenida 5, San Francisco, Parroquia San Francisco, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.550550992644315,
+      "lng": -71.62105885353337
+    }
+  },
+  {
+    "name": "Super Abasto Luis Aparicio, C.A.",
+    "rif": "J500126522",
+    "direccion": "No posee",
+    "sada": "750695",
+    "vendorId": "victor_hinestroza",
+    "id": 499
+  },
+  {
+    "name": "Super Panadería Diana, C.A.",
+    "rif": "J309346539",
+    "direccion": "No posee",
+    "sada": "749575",
+    "vendorId": "victor_hinestroza",
+    "id": 500
+  },
+  {
+    "name": "Super Tienda El Futuro, C.A.",
+    "rif": "J403976554",
+    "direccion": "No posee",
+    "sada": "213142",
+    "vendorId": "victor_hinestroza",
+    "id": 501
+  },
+  {
+    "name": "Super Tienda La Económica, C.A.",
+    "rif": "J295695616",
+    "direccion": "No posee",
+    "sada": "71112",
+    "vendorId": "victor_hinestroza",
+    "id": 502
+  },
+  {
+    "name": "Comercializadora Arismorcar, C.A.",
+    "rif": "J401526080",
+    "direccion": "No posee",
+    "sada": "220566",
+    "vendorId": "victor_hinestroza",
+    "id": 503
+  },
+  {
+    "name": "Super Tienda Latino Coromoto, C.A.",
+    "rif": "J296243719",
+    "direccion": "No posee",
+    "sada": "51666",
+    "vendorId": "victor_hinestroza",
+    "id": 504
+  },
+  {
+    "name": "Proquisvenca, C.A.",
+    "rif": "J502219668",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "victor_hinestroza",
+    "id": 505
+  },
+  {
+    "name": "Super Tienda Los Cactus, C.A.",
+    "rif": "J297374361",
+    "direccion": "No posee",
+    "sada": "81128",
+    "vendorId": "victor_hinestroza",
+    "id": 506
+  },
+  {
+    "name": "Super Tiendas del Sur, C.A.",
+    "rif": "J404240837",
+    "direccion": "No posee",
+    "sada": "741587",
+    "vendorId": "victor_hinestroza",
+    "id": 507
+  },
+  {
+    "name": "Super Tiendas La Gran China, C.A.",
+    "rif": "J298910240",
+    "direccion": "No posee",
+    "sada": "124788",
+    "vendorId": "victor_hinestroza",
+    "id": 508
+  },
+  {
+    "name": "Super Tiendas Miami, C.A. (San Francisco)",
+    "rif": "J304999844",
+    "direccion": "No posee",
+    "sada": "26878",
+    "vendorId": "victor_hinestroza",
+    "id": 509
+  },
+  {
+    "name": "Super Tiendas Miami, C.A. (Curva)",
+    "rif": "J304999844",
+    "direccion": "No posee",
+    "sada": "CS577",
+    "vendorId": "victor_hinestroza",
+    "id": 510
+  },
+  {
+    "name": "Super Tiendas Nuevo Los Cortijos",
+    "rif": "J401403646",
+    "direccion": "No posee",
+    "sada": "138531",
+    "vendorId": "victor_hinestroza",
+    "id": 511
+  },
+  {
+    "name": "Super Market Marbella, C.A.",
+    "rif": "J501820740",
+    "direccion": "No posee",
+    "sada": "878393",
+    "vendorId": "victor_hinestroza",
+    "id": 512,
+    "vendor": "victor_hinestroza",
+    "address": "Calle 171, La Coromoto, San Francisco, Parroquia San Francisco, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.5585106997445,
+      "lng": -71.62188770820278
+    }
+  },
+  {
+    "name": "Supermarket Popular China, C.A.",
+    "rif": "J401998488",
+    "direccion": "No posee",
+    "sada": "148753",
+    "vendorId": "victor_hinestroza",
+    "id": 513
+  },
+  {
+    "name": "Supermercado La Fortuna 2021, C.A.",
+    "rif": "J501338590",
+    "direccion": "No posee",
+    "sada": "711091",
+    "vendorId": "victor_hinestroza",
+    "id": 514
+  },
+  {
+    "name": "Multitiendas Farmaplus, C.A.",
+    "rif": "J501541795",
+    "direccion": "No posee",
+    "sada": "876497",
+    "vendorId": "victor_hinestroza",
+    "id": 515
+  },
+  {
+    "name": "Viveres Nueva Victoría, C.A.",
+    "rif": "J299890812",
+    "direccion": "No posee",
+    "sada": "125964",
+    "vendorId": "victor_hinestroza",
+    "id": 516,
+    "vendor": "victor_hinestroza",
+    "address": "",
+    "location": null
+  },
+  {
+    "name": "Inversiones Los Quinteros, C.A.",
+    "rif": "J501616728",
+    "direccion": "No posee",
+    "sada": "874477",
+    "vendorId": "victor_hinestroza",
+    "id": 517
+  },
+  {
+    "name": "Hipermercado El Éxito, S.A.",
+    "rif": "J503160330",
+    "direccion": "No posee",
+    "sada": "913102",
+    "vendorId": "victor_hinestroza",
+    "id": 518
+  },
+  {
+    "name": "Industrias La Vecina, C.A.",
+    "rif": "J401921655",
+    "direccion": "No posee",
+    "sada": "843377",
+    "vendorId": "victor_hinestroza",
+    "id": 519
+  },
+  {
+    "name": "La Nueva Super Venepan, C.A.",
+    "rif": "J500971818",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "victor_hinestroza",
+    "id": 520
+  },
+  {
+    "name": "Super Saman, C.A.",
+    "rif": "J403337195",
+    "direccion": "No posee",
+    "sada": "194657",
+    "vendorId": "victor_hinestroza",
+    "id": 521
+  },
+  {
+    "name": "Auto Mercado El Sur N. 1, C.A.",
+    "rif": "J404523227",
+    "direccion": "No posee",
+    "sada": "218431",
+    "vendorId": "victor_hinestroza",
+    "id": 522
+  },
+  {
+    "name": "Multitiendas Saturno, C.A.",
+    "rif": "J505556525",
+    "direccion": "No posee",
+    "sada": "992821",
+    "vendorId": "victor_hinestroza",
+    "id": 523
+  },
+  {
+    "name": "New Canaima 2030, C.A.",
+    "rif": "J505299310",
+    "direccion": "No posee",
+    "sada": "991272",
+    "vendorId": "victor_hinestroza",
+    "id": 524
+  },
+  {
+    "name": "Super Tienda Favorita, C.A.",
+    "rif": "J505336711",
+    "direccion": "No posee",
+    "sada": "993559",
+    "vendorId": "victor_hinestroza",
+    "id": 525
+  },
+  {
+    "name": "SM Pharma, C.A.",
+    "rif": "J070131390",
+    "direccion": "No posee",
+    "sada": "166767",
+    "vendorId": "victor_hinestroza",
+    "id": 526
+  },
+  {
+    "name": "Catatumbo Foods, C.A.",
+    "rif": "J501534101",
+    "direccion": "No posee",
+    "sada": "877776",
+    "vendorId": "victor_hinestroza",
+    "id": 527
+  },
+  {
+    "name": "Mi Fe, C.A.",
+    "rif": "J500540744",
+    "direccion": "No posee",
+    "sada": "865884",
+    "vendorId": "victor_hinestroza",
+    "id": 528
+  },
+  {
+    "name": "Ultra Distribuciones, C.A.",
+    "rif": "J310021317",
+    "direccion": "No posee",
+    "sada": "159986498",
+    "vendorId": "victor_hinestroza",
+    "id": 529
+  },
+  {
+    "name": "Distribuidora Santa Fe, C.A.",
+    "rif": "J405409940",
+    "direccion": "No posee",
+    "sada": "239235",
+    "vendorId": "victor_hinestroza",
+    "id": 530
+  },
+  {
+    "name": "Super Tienda Amapola, C.A.",
+    "rif": "J506405946",
+    "direccion": "No posee",
+    "sada": "996731",
+    "vendorId": "victor_hinestroza",
+    "id": 531,
+    "vendor": "victor_hinestroza",
+    "address": "San Francisco, Parroquia San Francisco, Municipio San Francisco, Estado Zulia, 4004, Venezuela",
+    "location": {
+      "lat": 10.547671524885725,
+      "lng": -71.62502915855497
+    }
+  },
+  {
+    "name": "Frutería & Hortalizas El Trébol N1, C.A.",
+    "rif": "J500472536",
+    "direccion": "No posee",
+    "sada": "974170",
+    "vendorId": "victor_hinestroza",
+    "id": 532
+  },
+  {
+    "name": "Multitiendas Farmaplus Gran Bazar, C.A.",
+    "rif": "J505828380",
+    "direccion": "No posee",
+    "sada": "99541",
+    "vendorId": "victor_hinestroza",
+    "id": 533
+  },
+  {
+    "name": "Detodo, C.A. (Detodo, C.A.) (Zona Industrial)",
+    "rif": "J407437305",
+    "direccion": "No posee",
+    "sada": "747140",
+    "vendorId": "victor_hinestroza",
+    "id": 534
+  },
+  {
+    "name": "Detodo, C.A. (Detodo, C.A.) (Curva)",
+    "rif": "J407437305",
+    "direccion": "No posee",
+    "sada": "860889",
+    "vendorId": "victor_hinestroza",
+    "id": 535
+  },
+  {
+    "name": "Detodo, C.A. (Detodo, C.A.) (18 de Octubre)",
+    "rif": "J407437305",
+    "direccion": "No posee",
+    "sada": "871558",
+    "vendorId": "victor_hinestroza",
+    "id": 536
+  },
+  {
+    "name": "Detodo, C.A. (Detodo, C.A.) (Háticos)",
+    "rif": "J407437305",
+    "direccion": "No posee",
+    "sada": "747126",
+    "vendorId": "victor_hinestroza",
+    "id": 537
+  },
+  {
+    "name": "Detodo, C.A. (Detodo, C.A.) (La Limpia) Nuevo",
+    "rif": "J407437306",
+    "direccion": "No posee",
+    "sada": "1003394",
+    "vendorId": "victor_hinestroza",
+    "id": 538
+  },
+  {
+    "name": "Inversiones Avícolas, C.A.",
+    "rif": "J294038280",
+    "direccion": "No posee",
+    "sada": "CS606",
+    "vendorId": "victor_hinestroza",
+    "id": 539
+  },
+  {
+    "name": "Super Abastos Huang 8, C.A.",
+    "rif": "Sin RIF proporcionado",
+    "direccion": "No posee",
+    "sada": "751742",
+    "vendorId": "victor_hinestroza",
+    "id": 540
+  },
+  {
+    "name": "Inversiones Los Juanes, C.A.",
+    "rif": "J412321536",
+    "direccion": "No posee",
+    "sada": "CS608",
+    "vendorId": "victor_hinestroza",
+    "id": 541
+  },
+  {
+    "name": "Distribuidora Médico Quirúrgico Galeno, C.A.",
+    "rif": "J404005480",
+    "direccion": "No posee",
+    "sada": "No posee",
+    "vendorId": "victor_hinestroza",
+    "id": 542
+  },
+  {
+    "name": "Distribuidora de Productos Lácteos Catatumbo, C.A.",
+    "rif": "J404294015",
+    "direccion": "No posee",
+    "sada": "636634",
+    "vendorId": "victor_hinestroza",
+    "id": 543
+  },
+  {
+    "name": "Super Tienda Caribe Wu, C.A.",
+    "rif": "Sin RIF proporcionado",
+    "direccion": "No posee",
+    "sada": "000632",
+    "vendorId": "victor_hinestroza",
+    "id": 544
+  },
+  {
+    "name": "Julio Enrique Moncada López",
+    "rif": "V137639803",
+    "direccion": "No posee",
+    "sada": "877247",
+    "vendorId": "victor_hinestroza",
+    "id": 545
+  },
+  {
+    "name": "PANADERIA ECLIPSE 98, C.A. ",
+    "rif": "Por proporcionar",
+    "sada": "no posee",
+    "vendor": "edwar_ruiz",
+    "address": "Calle 64, Parroquia Olegario Villalobos, Municipio Maracaibo, Estado Zulia, 4002, Venezuela",
+    "location": {
+      "lat": 10.68077137349543,
+      "lng": -71.60563834094648
+    },
+    "id": 546
+  },
+  {
+    "name": "PANADERIA LA NUEVA CIMA, C.A. ",
+    "rif": "J297808019",
+    "sada": "no posee",
+    "vendor": "edwar_ruiz",
+    "address": "Calle 81B, Valle Frío, Santa Lucía, Parroquia Santa Lucía, Municipio Maracaibo, Estado Zulia, 0261, Venezuela",
+    "location": {
+      "lat": 10.660652434681428,
+      "lng": -71.5985890569297
+    },
+    "id": 547
+  },
+  {
+    "name": "EL REY DEL PAN, C.A. ",
+    "rif": "Por proporcionar",
+    "sada": "no posee",
+    "vendor": "edwar_ruiz",
+    "address": "Calle 5, Sector 10 de San Jacinto, San Jacinto, Parroquia Juana de Ávila, Municipio Maracaibo, Estado Zulia, 4005, Venezuela",
+    "location": {
+      "lat": 10.712480632847145,
+      "lng": -71.63491266810763
+    },
+    "id": 548
+  },
+  {
+    "name": "EL RICO PAN, C.A.   ",
+    "rif": "J314458286",
+    "sada": "1002740",
+    "vendor": "reinaldo_rojo",
+    "address": "Carrasquero, Parroquia Luis Vicente, Municipio Mara, Estado Zulia, Venezuela",
+    "location": {
+      "lat": 11.025157727052026,
+      "lng": -72.00430870056154
+    },
+    "id": 549
+  }
+]
