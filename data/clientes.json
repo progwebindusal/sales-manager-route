@@ -814,16 +814,16 @@
   {
     "name": "Fresh Market, C.A. (Fuerzas Armadas)",
     "rif": "J309916360",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "Av 15 Fuerzas Armadas, entre calle 19A y 20, Norte, Planta Baja, loca pb1, pb2, pb3, zona naorte Maracaibo",
+    "sada": "652738",
     "vendorId": "gerardo_hernandez",
     "id": 95
   },
   {
     "name": "Fresh Market, C.A. (Delicias Norte)",
     "rif": "J309916360",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "SECTOR LAS DELICIAS (OLEGARIO V) AV 15 LAS DELICIAS CRT. C PASEO DE DELICIAS",
+    "sada": "670651",
     "vendorId": "gerardo_hernandez",
     "id": 96
   },
@@ -1402,7 +1402,7 @@
     "name": "Fresh Market, C.A. (Av 76)",
     "rif": "J309916360",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "32977",
     "vendorId": "gerardo_hernandez",
     "id": 168
   },
@@ -1602,7 +1602,7 @@
     "name": "Supermarket 2028, C.A.",
     "rif": "J501493677",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "875184",
     "vendorId": "gerardo_hernandez",
     "id": 193
   },
@@ -1610,7 +1610,7 @@
     "name": "Super Tienda Internacional, C.A.",
     "rif": "J295016379",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "650333",
     "vendorId": "gerardo_hernandez",
     "id": 194
   },
@@ -1697,10 +1697,13 @@
   {
     "name": "Supermarket Flor De Loto",
     "rif": "J502198083",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "",
+    "sada": "163959455",
     "vendorId": "gerardo_hernandez",
-    "id": 205
+    "id": 205,
+    "vendor": "gerardo_hernandez",
+    "address": "",
+    "location": null
   },
   {
     "name": "Panaderia Y Pasteleria Nueva Virgen De Coromoto",
@@ -1970,7 +1973,7 @@
     "name": "Fresh Market II, C.A. (Av 10)",
     "rif": "J501840687",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "32977",
     "vendorId": "gerardo_hernandez",
     "id": 239
   },
@@ -3958,7 +3961,13 @@
     "direccion": "Av 15 Casa Nro 22-10 Sierra Maestra",
     "sada": "613666",
     "vendorId": "victor_hinestroza",
-    "id": 489
+    "id": 489,
+    "vendor": "victor_hinestroza",
+    "address": "",
+    "location": {
+      "lat": 10.57896416671159,
+      "lng": -71.63528654419672
+    }
   },
   {
     "name": "Panadería y Charcutería Jehová Raah, C.A.",
@@ -4476,5 +4485,13 @@
       "lng": -72.00430870056154
     },
     "id": 549
+  },
+  {
+    "name": "INVERSIONES LOPEZ SANDOVAL 2019 CA",
+    "rif": "J412833847",
+    "direccion": "No posee",
+    "sada": "996615",
+    "vendorId": "gerardo_hernandez",
+    "id": 205
   }
 ]
