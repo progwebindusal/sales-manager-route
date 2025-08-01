@@ -151,6 +151,873 @@
     "date": "2025-07-29",
     "time": "10:05",
     "total": 29.03
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "id": "ORD-1753964700847",
+    "client": "454",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "3",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "2",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "08:25",
+    "total": 195.8
+  },
+  {
+    "id": "ORD-1753965107922",
+    "client": "514",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 7,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "3",
+        "quantity": 3,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 7,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "08:31",
+    "total": 261.95
+  },
+  {
+    "id": "ORD-1753965944892",
+    "client": "550",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "3",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "08:45",
+    "total": 58.06
+  },
+  {
+    "id": "ORD-1753966658216",
+    "client": "518",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 15,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 15,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "5",
+        "quantity": 10,
+        "price": 8.1,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "08:57",
+    "total": 516.45
+  },
+  {
+    "id": "ORD-1753967203908",
+    "client": "489",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 1,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:06",
+    "total": 19.58
+  },
+  {
+    "id": "ORD-1753967368321",
+    "client": "508",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "3",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:09",
+    "total": 97.9
+  },
+  {
+    "id": "ORD-1753967549771",
+    "client": "511",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 3,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "5",
+        "quantity": 3,
+        "price": 8.1,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:12",
+    "total": 83.04
+  },
+  {
+    "id": "ORD-1753967647167",
+    "client": "511",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 3,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 3,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:14",
+    "total": 87.09
+  },
+  {
+    "id": "ORD-1753967993696",
+    "client": "442",
+    "vendor": "victor_hinestroza",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 7,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "3",
+        "quantity": 3,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 5,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:19",
+    "total": 243.05
+  },
+  {
+    "id": "ORD-1753969336433",
+    "client": "155",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 15,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:42",
+    "total": 293.7
+  },
+  {
+    "id": "ORD-1753969368922",
+    "client": "552",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 1,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:42",
+    "total": 19.58
+  },
+  {
+    "id": "ORD-1753969439986",
+    "client": "199",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 5,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:43",
+    "total": 145.15
+  },
+  {
+    "id": "ORD-1753969865627",
+    "client": "163",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 6,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "8",
+        "quantity": 5,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 6,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-07-31",
+    "time": "09:51",
+    "total": 221.43
+  },
+  {
+    "id": "ORD-1753969978595",
+    "client": "551",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "3",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "2",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "09:52",
+    "total": 97.22
+  },
+  {
+    "id": "ORD-1753970894100",
+    "client": "553",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "8",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-07-31",
+    "time": "10:08",
+    "total": 76.96
+  },
+  {
+    "id": "ORD-1753970961521",
+    "client": "554",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "10",
+        "quantity": 2,
+        "price": 5.5,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "10:09",
+    "total": 11
+  },
+  {
+    "id": "ORD-1753971015895",
+    "client": "220",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "10:10",
+    "total": 18.9
+  },
+  {
+    "id": "ORD-1753971087240",
+    "client": "391",
+    "vendor": "edwar_ruiz",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 6,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "10:11",
+    "total": 95.86
+  },
+  {
+    "id": "ORD-1753971210712",
+    "client": "386",
+    "vendor": "edwar_ruiz",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 3,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "8",
+        "quantity": 1,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "10",
+        "quantity": 2,
+        "price": 5.5,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-07-31",
+    "time": "10:13",
+    "total": 98.09
+  },
+  {
+    "id": "ORD-1753977569659",
+    "client": "203",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 15,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 5,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-07-31",
+    "time": "11:59",
+    "total": 340.95
+  },
+  {
+    "id": "ORD-1754050685322",
+    "client": "423",
+    "vendor": "edwar_ruiz",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "3",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "7",
+        "quantity": 10,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "8",
+        "quantity": 2,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "15",
+        "quantity": 1,
+        "price": 16.2,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-08-01",
+    "time": "08:18",
+    "total": 266.66
+  },
+  {
+    "id": "ORD-1754050761727",
+    "client": "16",
+    "vendor": "susan_moran",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 20,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "2",
+        "quantity": 10,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "3",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "08:19",
+    "total": 482.7
+  },
+  {
+    "id": "ORD-1754050824789",
+    "client": "278",
+    "vendor": "reinaldo_rojo",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 10,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "8",
+        "quantity": 5,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "08:20",
+    "total": 141.75
+  },
+  {
+    "id": "ORD-1754050865692",
+    "client": "321",
+    "vendor": "reinaldo_rojo",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 10,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "08:21",
+    "total": 94.5
+  },
+  {
+    "id": "ORD-1754050946226",
+    "client": "245",
+    "vendor": "reinaldo_rojo",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 10,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      },
+      {
+        "id": "2",
+        "quantity": 5,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "08:22",
+    "total": 192.4
+  },
+  {
+    "id": "ORD-1754051006724",
+    "client": "27",
+    "vendor": "susan_moran",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 5,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": false
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "08:23",
+    "total": 47.25
+  },
+  {
+    "id": "ORD-1754052200536",
+    "client": "409",
+    "vendor": "edwar_ruiz",
+    "products": [
+      {
+        "id": "10",
+        "quantity": 20,
+        "price": 5.5,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 3.5
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "08:43",
+    "total": 70
+  },
+  {
+    "id": "ORD-1754059204230",
+    "client": "234",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "7",
+        "quantity": 4,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 9.5
+      },
+      {
+        "id": "2",
+        "quantity": 2,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 19.5
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-08-01",
+    "time": "10:40",
+    "total": 77
+  },
+  {
+    "id": "ORD-1754059277505",
+    "client": "202",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 1,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 19.5
+      },
+      {
+        "id": "7",
+        "quantity": 1,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 9.5
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "despachado",
+    "date": "2025-08-01",
+    "time": "10:41",
+    "total": 29
+  },
+  {
+    "id": "ORD-1754059623251",
+    "client": "175",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 8,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 19.5
+      },
+      {
+        "id": "7",
+        "quantity": 10,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 9.5
+      },
+      {
+        "id": "8",
+        "quantity": 6,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 4.75
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "10:47",
+    "total": 279.5
+  },
+  {
+    "id": "ORD-1754059814561",
+    "client": "175",
+    "vendor": "gerardo_hernandez",
+    "products": [
+      {
+        "id": "2",
+        "quantity": 8,
+        "price": 19.58,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 19.5
+      },
+      {
+        "id": "7",
+        "quantity": 10,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 8
+      },
+      {
+        "id": "8",
+        "quantity": 6,
+        "price": 9.45,
+        "priceType": "perSack",
+        "applyDiscount": true,
+        "unitPrice": 4.75
+      }
+    ],
+    "paymentType": "Al BCV",
+    "status": "order_placed",
+    "date": "2025-08-01",
+    "time": "10:50",
+    "total": 1180.75
   }
 ]
+  
 
