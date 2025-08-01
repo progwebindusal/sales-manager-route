@@ -128,7 +128,7 @@
   {
     "name": "Super Viveres La Union C.A.",
     "rif": "J500347088",
-    "direccion": "No posee",
+    "direccion": "BARRIO ALFREDO SADEL, AV. 43H, 97E-1-78, MARACAIBO, ESTADO ZULIA.",
     "sada": "896606",
     "vendorId": "susan_moran",
     "id": 16
@@ -151,8 +151,8 @@
     "vendor": "susan_moran",
     "address": "Parroquia Venancio Pulgar, Municipio Maracaibo, Estado Zulia, Venezuela",
     "location": {
-      "lat": 10.688227570504193,
-      "lng": -71.67931831425165
+      "lat": 10.688589,
+    "lng": -71.680789
     }
   },
   {
@@ -186,13 +186,17 @@
     "id": 21
   },
   {
-    "name": "Supermercado Cuatricentenario C.A.",
-    "rif": "J500616062",
-    "direccion": "No posee",
-    "sada": "975364",
-    "vendorId": "susan_moran",
-    "id": 22
-  },
+  "name": "Supermercado Cuatricentenario C.A.",
+  "rif": "J500616062",
+  "direccion": "No posee",
+  "sada": "975364",
+  "vendorId": "susan_moran",
+  "id": 22,
+  "location": {
+    "lat": 10.652714890830767,
+    "lng": -71.67261618650613
+  }
+},
   {
     "name": "Carnicería Y Charcutería Panamericano C.A.",
     "rif": "J295103328",
@@ -222,13 +226,17 @@
     }
   },
   {
-    "name": "Automercado, Supermercado, Panadería La Vendimia, C.A.",
-    "rif": "J304279930",
-    "direccion": "No posee",
-    "sada": "8989",
-    "vendorId": "susan_moran",
-    "id": 25
-  },
+  "name": "Automercado, Supermercado, Panadería La Vendimia, C.A.",
+  "rif": "J304279930",
+  "direccion": "No posee",
+  "sada": "8989",
+  "vendorId": "susan_moran",
+  "id": 25,
+  "location": {
+    "lat": 10.617045032974396,
+    "lng": -71.66827552035124
+  }
+},
   {
     "name": "Super Confitería Nueva Popular, C.A.",
     "rif": "J306685758",
@@ -240,8 +248,8 @@
   {
     "name": "Automercado, Supermercado, Panadería La Viña, C.A.",
     "rif": "J310548455",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "CALLE 96, CASA NRO 54-58 SECTOR LA PASTORA, MARACAIBO ESTADO ZULIA",
+    "sada": "973655",
     "vendorId": "susan_moran",
     "id": 27
   },
@@ -273,7 +281,11 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "susan_moran",
-    "id": 30
+    "id": 30,
+    "location": {
+    "lat": 10.652933,
+    "lng": -71.671841
+  }
   },
   {
     "name": "Super Tienda Wu C.A.",
@@ -300,13 +312,17 @@
     "id": 33
   },
   {
-    "name": "Panadería La Dulce Esperanza, C.A.",
-    "rif": "J504911739",
-    "direccion": "No posee",
-    "sada": "976728",
-    "vendorId": "susan_moran",
-    "id": 34
-  },
+  "name": "Panadería La Dulce Esperanza, C.A.",
+  "rif": "J504911739",
+  "direccion": "No posee",
+  "sada": "976728",
+  "vendorId": "susan_moran",
+  "id": 34,
+  "location": {
+    "lat": 10.664909735620855,
+    "lng": -71.70478496238384
+  }
+},
   {
     "name": "Panadería Cumbres De Maracaibo, C.A.",
     "rif": "J503765968",
@@ -466,7 +482,7 @@
     }
   },
   {
-    "name": "C.A.",
+    "name": "PRODUCTOS DISTRIBUIDOS C.A.",
     "rif": "J297350020",
     "direccion": "No posee",
     "sada": "No posee",
@@ -796,7 +812,7 @@
     "id": 92
   },
   {
-    "name": "Grupo Sapori Di Calabria C.A. (Miércoles A Viernes 11-3)",
+    "name": "Grupo Sapori Di Calabria C.A.",
     "rif": "J501005400",
     "direccion": "No posee",
     "sada": "No posee",
@@ -812,7 +828,7 @@
     "id": 94
   },
   {
-    "name": "Fresh Market, C.A. (Fuerzas Armadas)",
+    "name": "Fresh Market Fuerzas Armadas, C.A.",
     "rif": "J309916360",
     "direccion": "Av 15 Fuerzas Armadas, entre calle 19A y 20, Norte, Planta Baja, loca pb1, pb2, pb3, zona naorte Maracaibo",
     "sada": "652738",
@@ -884,13 +900,17 @@
     "id": 103
   },
   {
-    "name": "Distribuidora Betsabet, C.A.",
-    "rif": "J505747517",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "gerardo_hernandez",
-    "id": 104
-  },
+  "name": "Distribuidora Betsabet, C.A.",
+  "rif": "J505747517",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "gerardo_hernandez",
+  "id": 104,
+  "location": {
+    "lat": 10.6923276,
+    "lng": -71.6084679
+  }
+},
   {
     "name": "Comercializadora Anj, C.A.",
     "rif": "J412192876",
@@ -1359,10 +1379,10 @@
     "id": 162
   },
   {
-    "name": "Distribuidora Cosmos Cosmetic, C.A. Fuerzas Armadas",
+    "name": "Super Tiendas Meta, C.A.",
     "rif": "J293827248",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "Calle 43 con Av Fuerzas Armadas local Nro 15 Urb Canaima, Maracaibo, Zulia",
+    "sada": "1010271",
     "vendorId": "gerardo_hernandez",
     "id": 163
   },
@@ -1439,7 +1459,7 @@
     "id": 172
   },
   {
-    "name": "Operadora JLA, C.A (Operadora JLA, C.A) Fuerzas Armadas",
+    "name": "Operadora JLA, C.A Fuerzas Armadas",
     "rif": "J401617190",
     "direccion": "AVENIDA FUERZAS ARMADAS ENTRE CALLE 41 Y 42 CC. MILENIUN CENTERNIVEL PB. LOCAL PB",
     "sada": "434892",
@@ -1447,7 +1467,7 @@
     "id": 173
   },
   {
-    "name": "Operadora JLA, C.A (Operadora JLA, C.A) La 72",
+    "name": "Operadora JLA, C.A La 72",
     "rif": "J401617190",
     "direccion": "AVENIDA FUERZAS ARMADAS ENTRE CALLES 41 Y 42 CC. MILLENIUN CENTER LOCAL PLANTA BAJA. SECTOR FUERZAS ARMADAS MARACAIBO ESTADO ZULIA",
     "sada": "747272",
@@ -1455,7 +1475,7 @@
     "id": 174
   },
   {
-    "name": "Farmacia Farma Servicios Norte, C.A (Maraplus Fuerzas Arm)",
+    "name": "Farmacia Farma Servicios Norte, C.A",
     "rif": "J501526613",
     "direccion": "Calle 43 Av 15 local S-N, URB Rosal Sur sector Fuerzas Armadas Maracaibo ZUlia ZP 4002",
     "sada": "733293",
@@ -1543,13 +1563,17 @@
     "id": 185
   },
   {
-    "name": "Veci C.A.",
-    "rif": "J500485620",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "gerardo_hernandez",
-    "id": 186
-  },
+  "name": "Veci C.A.",
+  "rif": "J500485620",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "gerardo_hernandez",
+  "id": 186,
+  "location": {
+    "lat": -71.6084679,
+    "lng": -71.6084679
+  }
+},
   {
     "name": "Comercializadora J Y R, C.A.",
     "rif": "J500996870",
@@ -1599,21 +1623,42 @@
     "id": 192
   },
   {
-    "name": "Supermarket 2028, C.A.",
-    "rif": "J501493677",
-    "direccion": "No posee",
-    "sada": "875184",
-    "vendorId": "gerardo_hernandez",
-    "id": 193
-  },
+  "name": "Comercial Éxito 28, C.A.",
+  "rif": "J503648821",
+  "direccion": "No posee",
+  "sada": "892305",
+  "vendorId": "edwar_ruiz",
+  "id": 346,
+  "location": {
+    "lat": 10.658242190502598,
+    "lng": -71.6154038288361
+  }
+},
+{
+  "name": "Supermarket 2028, C.A.",
+  "rif": "J501493677",
+  "direccion": "No posee",
+  "sada": "875184",
+  "vendorId": "gerardo_hernandez",
+  "id": 193,
+  "location": {
+    "lat": 10.6923276,
+    "lng": -71.6084679
+  }
+},
+
   {
-    "name": "Super Tienda Internacional, C.A.",
-    "rif": "J295016379",
-    "direccion": "No posee",
-    "sada": "650333",
-    "vendorId": "gerardo_hernandez",
-    "id": 194
-  },
+  "name": "Super Tienda Internacional, C.A.",
+  "rif": "J295016379",
+  "direccion": "No posee",
+  "sada": "650333",
+  "vendorId": "gerardo_hernandez",
+  "id": 194,
+  "location": {
+    "lat": 10.696407959012284,
+    "lng": -71.61038291349182
+  }
+},
   {
     "name": "Lila Super Market, C.A.",
     "rif": "J298164310",
@@ -1647,13 +1692,17 @@
     "id": 198
   },
   {
-    "name": "Distribuidora Y Procesadora De Alimento El Triunfo C.A.",
-    "rif": "J316488241",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "gerardo_hernandez",
-    "id": 199
-  },
+  "name": "Distribuidora Y Procesadora De Alimento El Triunfo C.A.",
+  "rif": "J316488241",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "gerardo_hernandez",
+  "id": 199,
+  "location": {
+    "lat": 10.706051994765541,
+    "lng": -71.61262771658123
+  }
+},
   {
     "name": "Inversiones Viva Venezuela K & E, C.A.",
     "rif": "J410543957",
@@ -1681,8 +1730,8 @@
   {
     "name": "Farmacia Farma Express Fuerzas Armadas",
     "rif": "J502630600",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "Av 15 con Cruce C2, Prolongación Delicias",
+    "sada": "910735",
     "vendorId": "gerardo_hernandez",
     "id": 203
   },
@@ -1695,16 +1744,17 @@
     "id": 204
   },
   {
-    "name": "Supermarket Flor De Loto",
-    "rif": "J502198083",
-    "direccion": "",
-    "sada": "163959455",
-    "vendorId": "gerardo_hernandez",
-    "id": 205,
-    "vendor": "gerardo_hernandez",
-    "address": "",
-    "location": null
-  },
+  "name": "Supermarket Flor De Loto",
+  "rif": "J502198083",
+  "direccion": "",
+  "sada": "163959455",
+  "vendorId": "gerardo_hernandez",
+  "id": 205,
+  "location": {
+    "lat": 10.698933414171755,
+    "lng": -71.60687942883605
+  }
+},
   {
     "name": "Panaderia Y Pasteleria Nueva Virgen De Coromoto",
     "rif": "J503128933",
@@ -1820,7 +1870,7 @@
   {
     "name": "Inversiones Hernalith, C.A.",
     "rif": "J500767633",
-    "direccion": "No posee",
+    "direccion": "Calle Principal Local Nro 027A Sector Alto de Jalisco. Maracaibo, Zulia",
     "sada": "No posee",
     "vendorId": "gerardo_hernandez",
     "id": 220
@@ -1933,7 +1983,7 @@
     "name": "Farmacia Y Servicios Las Delicias, C.A.",
     "rif": "J501526397",
     "direccion": "Av 15 (Delicias) esquina calle 78 (Dr. Portillo) local S-N sector Delicias Maracaibo Edo. Zulia ZP 4002",
-    "sada": "753112",
+    "sada": "757112",
     "vendorId": "gerardo_hernandez",
     "id": 234
   },
@@ -1964,8 +2014,8 @@
   {
     "name": "Farma Servicios Maraplus Ciudad Ojeda",
     "rif": "No especificado",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "AV 2 (AV INTERCOMUNAL) ESQUINA CALLE 11 PROLONGACION AV ALONSO DE OJEDA, CASA NRO S/N, BARRIO MARIO RICARDO VARGAS, CIUDAD OJEDA, ESTADO ZULIA",
+    "sada": "998671",
     "vendorId": "gerardo_hernandez",
     "id": 238
   },
@@ -2020,8 +2070,8 @@
   {
     "name": "Supermercado Gran Pingüino, C.A.",
     "rif": "J297307621",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "AV. MIRAFLORES NRO. S/N SECTOR MIRAFLORES ZONA POSTAL 4013",
+    "sada": "81266",
     "vendorId": "reinaldo_rojo",
     "id": 245
   },
@@ -2074,13 +2124,17 @@
     "id": 251
   },
   {
-    "name": "Panadería y Pastelería 2000, C.A.",
-    "rif": "J315082560",
-    "direccion": "carretera I entre av 32 y 33 cc agua marina nivel pb local 01-02-03 sector la I",
-    "sada": "87437",
-    "vendorId": "reinaldo_rojo",
-    "id": 252
-  },
+  "name": "Panadería y Pastelería 2000, C.A.",
+  "rif": "J315082560",
+  "direccion": "carretera I entre av 32 y 33 cc agua marina nivel pb local 01-02-03 sector la I",
+  "sada": "87437",
+  "vendorId": "reinaldo_rojo",
+  "id": 252,
+  "location": {
+    "lat": 10.311225016411667,
+    "lng": -71.30366984125098
+  }
+},
   {
     "name": "Automercados Aime, C.A.",
     "rif": "J313051144",
@@ -2242,13 +2296,17 @@
     "id": 272
   },
   {
-    "name": "Comercial del Zulia, C.A.",
-    "rif": "J315300346",
-    "direccion": "AV PRINCIPAL ZONA COMERCIAL BACHAQUERO LOCAL 100 MUNICIPIO VALMOREZ RODRIGUES",
-    "sada": "182079",
-    "vendorId": "reinaldo_rojo",
-    "id": 273
-  },
+  "name": "Comercial del Zulia, C.A.",
+  "rif": "J315300346",
+  "direccion": "AV PRINCIPAL ZONA COMERCIAL BACHAQUERO LOCAL 100 MUNICIPIO VALMOREZ RODRIGUES",
+  "sada": "182079",
+  "vendorId": "reinaldo_rojo",
+  "id": 273,
+  "location": {
+    "lat": 9.99037294475331,
+    "lng": -71.12871831769402
+  }
+},
   {
     "name": "Supermercado Centro Sol, C.A.",
     "rif": "J504652741",
@@ -2284,7 +2342,7 @@
   {
     "name": "Super Tienda La H, C.A.",
     "rif": "J502306196",
-    "direccion": "AV INDEPENDENCIA PRINPICAL LOCAL NR S/N SECTOR CASCO CENTRAL CABIMAS ZULIA ZONA POSTAL 4013",
+    "direccion": "AV INDEPENDENCIA PRINCIPAL LOCAL NR S/N SECTOR CASCO CENTRAL CABIMAS ZULIA ZONA POSTAL 4013",
     "sada": "989626",
     "vendorId": "reinaldo_rojo",
     "id": 278
@@ -2628,8 +2686,8 @@
   {
     "name": "Inversiones Olda, C.A.",
     "rif": "J412968343",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "CALLE AURORA ESQUINA AVENIDA MIRAFLORES SECTOR TIERRA NEGRA CABIMAS",
+    "sada": "732658",
     "vendorId": "reinaldo_rojo",
     "id": 321
   },
@@ -2677,7 +2735,7 @@
     "name": "Distribuidora y Charcutería Rey de Reyes, C.A.",
     "rif": "J404263489",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "187723(Verificar)",
     "vendorId": "reinaldo_rojo",
     "id": 327
   },
@@ -2834,13 +2892,17 @@
     "id": 346
   },
   {
-    "name": "Nueva Amistad, C.A.",
-    "rif": "J501055726",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 347
-  },
+  "name": "Nueva Amistad, C.A.",
+  "rif": "J501055726",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 347,
+  "location": {
+    "lat": 10.657774365911584,
+    "lng": -71.61512192883607
+  }
+},
   {
     "name": "Familia Center, C.A.",
     "rif": "J501398836",
@@ -2866,13 +2928,17 @@
     "id": 351
   },
   {
-    "name": "Super Tienda Amistad C.A.",
-    "rif": "J406297852",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 352
-  },
+  "name": "Super Tienda Amistad C.A.",
+  "rif": "J406297852",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 352,
+  "location": {
+    "lat": 10.65776382215482,
+    "lng": -71.6151326576721
+  }
+},
   {
     "name": "Club La Roca C.A.",
     "rif": "J304794169",
@@ -2941,7 +3007,11 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "edwar_ruiz",
-    "id": 363
+    "id": 363,
+    "location": {
+    "lat": 10.652522,
+    "lng": -71.600744
+  }
   },
   {
     "name": "Al Kosto Donde Comprar Es Ganar C.A (San Felipe-Centro)",
@@ -3034,7 +3104,7 @@
     "id": 372
   },
   {
-    "name": "Farmacia Farmaexpres 24, C.A. (El Milagro)",
+    "name": "Farmacia Farmaexpres 24 El Milagro, C.A.",
     "rif": "J403391726",
     "direccion": "No posee",
     "sada": "No posee",
@@ -3072,13 +3142,17 @@
     "id": 376
   },
   {
-    "name": "Supertienda Belloso 2023, C.A.",
-    "rif": "J503507420",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 377
-  },
+  "name": "Supertienda Belloso 2023, C.A.",
+  "rif": "J503507420",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 377,
+  "location": {
+    "lat": 10.653068771123783,
+    "lng": -71.61487959206016
+  }
+},
   {
     "name": "Panaderia Pasteleria Y Carniceria El Milagro, C.A.",
     "rif": "J070347260",
@@ -3144,8 +3218,8 @@
   {
     "name": "Gourmet Jerusalen Santa C.A.",
     "rif": "J404160442",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "Calle 73 entre Av 15 y 15A, Sector San Jose, Maracaibo, Estado Zulia",
+    "sada": "740409",
     "vendorId": "edwar_ruiz",
     "id": 386
   },
@@ -3190,8 +3264,8 @@
   {
     "name": "Charcuteria Fina C.A.",
     "rif": "J070137290",
-    "direccion": "No posee",
-    "sada": "No posee",
+    "direccion": "Calle 78. Dr Portillo, Esquina 3F",
+    "sada": "124392",
     "vendorId": "edwar_ruiz",
     "id": 391
   },
@@ -3260,13 +3334,17 @@
     "id": 403
   },
   {
-    "name": "Super Tienda La Gran Variedad, C.A.",
-    "rif": "J505014773",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 405
-  },
+  "name": "Super Tienda La Gran Variedad, C.A.",
+  "rif": "J505014773",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 405,
+  "location": {
+    "lat": 10.663882915293467,
+    "lng": -71.61227795678606
+  }
+},
   {
     "name": "La Macelleria Mcbo C.A.",
     "rif": "J503728442",
@@ -3284,13 +3362,17 @@
     "id": 408
   },
   {
-    "name": "Evera Distribuciones C.A. (Edisca)",
-    "rif": "J502859063",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 409
-  },
+  "name": "Evera Distribuciones C.A. (Edisca)",
+  "rif": "J502859063",
+  "direccion": "AV 64B CASA NRO 99S - 23 UBR ALTOS DE LA VANEGA MARACAIBO ZULIA POSTAL 4002",
+  "sada": "921166",
+  "vendorId": "edwar_ruiz",
+  "id": 409,
+  "location": {
+    "lat": 10.63706964537261,
+    "lng": -71.6549662204496
+  }
+},
   {
     "name": "Panaderia Y Delicateces Pan De Vida, C.A.",
     "rif": "J411138169",
@@ -3330,13 +3412,17 @@
     "id": 414
   },
   {
-    "name": "Comercial Henry's, C.A.",
-    "rif": "J500117302",
-    "direccion": "No posee",
-    "sada": "97726",
-    "vendorId": "edwar_ruiz",
-    "id": 415
-  },
+  "name": "Comercial Henry's, C.A.",
+  "rif": "J500117302",
+  "direccion": "No posee",
+  "sada": "97726",
+  "vendorId": "edwar_ruiz",
+  "id": 415,
+  "location": {
+    "lat": 10.657401197579226,
+    "lng": -71.61532559999999
+  }
+},
   {
     "name": "Mega 72, C.A.",
     "rif": "J311456759",
@@ -3402,7 +3488,7 @@
   {
     "name": "Supermercado Samba Latino, C.A.",
     "rif": "J412761862",
-    "direccion": "No posee",
+    "direccion": "CALLE 78 DR PORTILLO SECTOR PARAISO ENTRE AV. 15 Y 16",
     "sada": "713960",
     "vendorId": "edwar_ruiz",
     "id": 423
@@ -3424,22 +3510,30 @@
     "id": 425
   },
   {
-    "name": "Panaderia Big Pan, C.A.",
-    "rif": "J312348992",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 426
-  },
+  "name": "Panaderia Big Pan, C.A.",
+  "rif": "J312348992",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 426,
+  "location": {
+    "lat": 10.662309418297298,
+    "lng": -71.61255570000002
+  }
+},
   {
-    "name": "Auto Mercado Cosmopolita, C.A.",
-    "rif": "J317155998",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 427
-  },
-  {
+  "name": "Auto Mercado Cosmopolita, C.A.",
+  "rif": "J317155998",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 427,
+  "location": {
+    "lat": 10.6566981478507,
+    "lng": -71.61043537116392
+  }
+},
+{
     "name": "Lusitana Express - Panaderia Braga",
     "rif": "J405225769",
     "direccion": "No posee",
@@ -3447,7 +3541,7 @@
     "vendorId": "edwar_ruiz",
     "id": 428
   },
-  {
+{
     "name": "Farmacia Farma Express 24 La 72, C.A.",
     "rif": "J409182002",
     "direccion": "No posee",
@@ -3455,7 +3549,7 @@
     "vendorId": "edwar_ruiz",
     "id": 429
   },
-  {
+{
     "name": "Inversiones Monaco (Pergamino Café)",
     "rif": "J403408734",
     "direccion": "No posee",
@@ -3463,7 +3557,7 @@
     "vendorId": "edwar_ruiz",
     "id": 430
   },
-  {
+{
     "name": "Panaderia Mansion Paris (Cliente Recuperado)",
     "rif": "J400989745",
     "direccion": "No posee",
@@ -3471,7 +3565,7 @@
     "vendorId": "edwar_ruiz",
     "id": 431
   },
-  {
+{
     "name": "Super Aveiro, C.A.",
     "rif": "J400015022",
     "direccion": "No posee",
@@ -3493,23 +3587,35 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "edwar_ruiz",
-    "id": 435
+    "id": 435,
+    "location": {
+    "lat": 10.661395,
+    "lng": -71.595303
+  }
   },
-  {
-    "name": "Super 128, C.A.",
-    "rif": "J412952889",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "edwar_ruiz",
-    "id": 436
-  },
+ {
+  "name": "Super 128, C.A.",
+  "rif": "J412952889",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "edwar_ruiz",
+  "id": 436,
+  "location": {
+    "lat": 10.665574828535286,
+    "lng": -71.60890961349183
+  }
+},
   {
     "name": "Manufacturas Don Jose, C.A.",
     "rif": "J400989744",
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "edwar_ruiz",
-    "id": 437
+    "id": 437,
+    "location": {
+    "lat": 10.655289,
+    "lng": -71.603261
+  }
   },
   {
     "name": "José Francisco Palencia",
@@ -3546,7 +3652,7 @@
   {
     "name": "Supermarket La Occidental, C.A.",
     "rif": "J504972088",
-    "direccion": "No posee",
+    "direccion": "Av 25A esquina Calle 13, Barrio El Manzanillo, Sierra Maesta, Zulia",
     "sada": "985430",
     "vendorId": "victor_hinestroza",
     "id": 442,
@@ -3606,13 +3712,17 @@
     "id": 448
   },
   {
-    "name": "Multitiendas 168, C.A.",
-    "rif": "J503316268",
-    "direccion": "No posee",
-    "sada": "916360",
-    "vendorId": "victor_hinestroza",
-    "id": 449
-  },
+  "name": "Multitiendas 168, C.A.",
+  "rif": "J503316268",
+  "direccion": "No posee",
+  "sada": "916360",
+  "vendorId": "victor_hinestroza",
+  "id": 449,
+  "location": {
+    "lat": 10.607402733822507,
+    "lng": -71.62203337679611
+  }
+},
   {
     "name": "A Granel Inversiones, C.A.",
     "rif": "J501913706",
@@ -3648,10 +3758,13 @@
   {
     "name": "Super Occidental La 15, C.A.",
     "rif": "J503316241",
-    "direccion": "No posee",
+    "direccion": "Barrio Sierra Maestra, Av 15, Calle 17",
     "sada": "878722",
     "vendorId": "victor_hinestroza",
-    "id": 454
+    "id": 454,
+    "address": "Barrio Sierra Maestra, Av 15, Calle 17",
+    "vendor": "victor_hinestroza",
+    "location": null
   },
   {
     "name": "Distribuidora Famoso Occidente, C.A.",
@@ -3694,13 +3807,17 @@
     "id": 459
   },
   {
-    "name": "Comercializadora Liang Lizeng, C.A.",
-    "rif": "J501928312",
-    "direccion": "No posee",
-    "sada": "882417",
-    "vendorId": "victor_hinestroza",
-    "id": 460
-  },
+  "name": "Comercializadora Liang Lizeng, C.A.",
+  "rif": "J501928312",
+  "direccion": "No posee",
+  "sada": "882417",
+  "vendorId": "victor_hinestroza",
+  "id": 460,
+  "location": {
+    "lat": 10.543472920629105,
+    "lng": -71.68986515782689
+  }
+},
   {
     "name": "Supermarket Milenium, C.A.",
     "rif": "J504898066",
@@ -3750,13 +3867,17 @@
     "id": 466
   },
   {
-    "name": "Farmacia Farmaexpress 24 San Francisco, C.A.",
-    "rif": "J500325371",
-    "direccion": "No posee",
-    "sada": "761875",
-    "vendorId": "victor_hinestroza",
-    "id": 467
-  },
+  "name": "Farmacia Farmaexpress 24 San Francisco, C.A.",
+  "rif": "J500325371",
+  "direccion": "No posee",
+  "sada": "761875",
+  "vendorId": "victor_hinestroza",
+  "id": 467,
+  "location": {
+    "lat": 10.58305425645122,
+    "lng": -71.63425451109593
+  }
+},
   {
     "name": "Gaman Distribuciones, C.A.",
     "rif": "J500619790",
@@ -3766,13 +3887,17 @@
     "id": 468
   },
   {
-    "name": "Home Way, C.A.",
-    "rif": "J304621400",
-    "direccion": "No posee",
-    "sada": "119058",
-    "vendorId": "victor_hinestroza",
-    "id": 469
-  },
+  "name": "Home Way, C.A.",
+  "rif": "J304621400",
+  "direccion": "No posee",
+  "sada": "119058",
+  "vendorId": "victor_hinestroza",
+  "id": 469,
+  "location": {
+    "lat": 10.570783286286812,
+    "lng": -71.63604570583357
+  }
+},
   {
     "name": "Inversiones Franktony, C.A.",
     "rif": "J404394737",
@@ -3818,13 +3943,17 @@
     "id": 473
   },
   {
-    "name": "Mega Compras Supermercado, C.A.",
-    "rif": "J500256817",
-    "direccion": "No posee",
-    "sada": "756567",
-    "vendorId": "victor_hinestroza",
-    "id": 474
-  },
+  "name": "Mega Compras Supermercado, C.A.",
+  "rif": "J500256817",
+  "direccion": "No posee",
+  "sada": "756567",
+  "vendorId": "victor_hinestroza",
+  "id": 474,
+  "location": {
+    "lat": 10.573738324700983,
+    "lng": -71.63956751612328
+  }
+},
   {
     "name": "Mega Inversiones 2000",
     "rif": "J412585339",
@@ -4055,14 +4184,18 @@
     "vendorId": "victor_hinestroza",
     "id": 499
   },
-  {
-    "name": "Super Panadería Diana, C.A.",
-    "rif": "J309346539",
-    "direccion": "No posee",
-    "sada": "749575",
-    "vendorId": "victor_hinestroza",
-    "id": 500
-  },
+ {
+  "name": "Super Panadería Diana, C.A.",
+  "rif": "J309346539",
+  "direccion": "No posee",
+  "sada": "749575",
+  "vendorId": "victor_hinestroza",
+  "id": 500,
+  "location": {
+    "lat": 10.571628829300606,
+    "lng": -71.63376293445016
+  }
+},
   {
     "name": "Super Tienda El Futuro, C.A.",
     "rif": "J403976554",
@@ -4122,7 +4255,7 @@
   {
     "name": "Super Tiendas La Gran China, C.A.",
     "rif": "J298910240",
-    "direccion": "No posee",
+    "direccion": "Calle 163 con 49H, Barrio El Silencio",
     "sada": "124788",
     "vendorId": "victor_hinestroza",
     "id": 508
@@ -4146,7 +4279,7 @@
   {
     "name": "Super Tiendas Nuevo Los Cortijos",
     "rif": "J401403646",
-    "direccion": "No posee",
+    "direccion": "Carretera Via Perija KM 12, Sector los Cortijos",
     "sada": "138531",
     "vendorId": "victor_hinestroza",
     "id": 511
@@ -4176,10 +4309,13 @@
   {
     "name": "Supermercado La Fortuna 2021, C.A.",
     "rif": "J501338590",
-    "direccion": "No posee",
+    "direccion": "Av 4, CC Paez",
     "sada": "711091",
     "vendorId": "victor_hinestroza",
-    "id": 514
+    "id": 514,
+    "vendor": "victor_hinestroza",
+    "address": "Av 4, CC Paez",
+    "location": null
   },
   {
     "name": "Multitiendas Farmaplus, C.A.",
@@ -4190,28 +4326,33 @@
     "id": 515
   },
   {
-    "name": "Viveres Nueva Victoría, C.A.",
-    "rif": "J299890812",
-    "direccion": "No posee",
-    "sada": "125964",
-    "vendorId": "victor_hinestroza",
-    "id": 516,
-    "vendor": "victor_hinestroza",
-    "address": "",
-    "location": null
-  },
+  "name": "Viveres Nueva Victoría, C.A.",
+  "rif": "J299890812",
+  "direccion": "No posee",
+  "sada": "125964",
+  "vendorId": "victor_hinestroza",
+  "id": 516,
+  "location": {
+    "lat": 10.57192090414193,
+    "lng": -71.62999859901173
+  }
+},
   {
-    "name": "Inversiones Los Quinteros, C.A.",
-    "rif": "J501616728",
-    "direccion": "No posee",
-    "sada": "874477",
-    "vendorId": "victor_hinestroza",
-    "id": 517
-  },
+  "name": "Inversiones Los Quinteros, C.A.",
+  "rif": "J501616728",
+  "direccion": "No posee",
+  "sada": "874477",
+  "vendorId": "victor_hinestroza",
+  "id": 517,
+  "location": {
+    "lat": 10.578873596349943,
+    "lng": -71.63579439261623
+  }
+},
   {
     "name": "Hipermercado El Éxito, S.A.",
     "rif": "J503160330",
-    "direccion": "No posee",
+    "direccion": "Av 100 Sabaneta, CC El Varillal",
     "sada": "913102",
     "vendorId": "victor_hinestroza",
     "id": 518
@@ -4486,12 +4627,93 @@
     },
     "id": 549
   },
+  
+  {
+    "name": "SUPER TIENDA GIRASOL 123, C.A.",
+    "rif": "J412833847",
+    "direccion": "Calle 148 con Av 5 4A, Local Nro 54A-09 Sector Sur America, Estado Zulia, Venezuela",
+    "sada": "905747",
+    "vendorId": "victor_hinestroza",
+    "id": 550
+  },
+  {
+    "name": "Keila Maria Fernandez Garcia",
+    "rif": "V224562442",
+    "direccion": "Calle 35 Casa Nro 6G-108 Barrio Milagro Norte Maracaibo",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 551
+  },
   {
     "name": "INVERSIONES LOPEZ SANDOVAL 2019 CA",
     "rif": "J412833847",
-    "direccion": "No posee",
+    "direccion": "Calle 59 entre av 15E y 15D CC Tane Nivel PB Local #546 Sector Ziruma, Maracaibo",
     "sada": "996615",
     "vendorId": "gerardo_hernandez",
-    "id": 205
+    "id": 552
+  },
+  {
+    "name": "Viveres Vatul C.A.",
+    "rif": "J507078728",
+    "direccion": "Carretera Corredor Vial Palo Negro con Calle 32 Local Nro. 1 Sector Palo Negro, Maracaibo",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 553
+  },
+  {
+    "name": "Yanina Carolina Nuñez Rosalez",
+    "rif": "J185170094",
+    "direccion": "Calle S Casa Nro 6-55 Barrio 18 de Octubre Maracaibo",
+    "sada": "No posee",
+    "vendorId": "gerardo_hernandez",
+    "id": 554
+  },
+  {
+  "name": "Panaderia Carly Pan",
+  "rif": "",
+  "direccion": "",
+  "sada": "",
+  "vendorId": "",
+  "id": 555,
+  "location": {
+    "lat": 10.6215623,
+    "lng": -71.6420013
   }
+},
+{
+  "name": "LACTEOS R.D. C.A.",
+  "rif": "J-304389744",
+  "direccion": "",
+  "sada": "37513",
+  "vendorId": "victor_hinestroza",
+  "id": 556,
+  "location": {
+    "lat": 9.908096217170382,
+    "lng": -70.9529773592212
+  }
+},
+{
+  "name": "DROGUERIA COBECA OCCIDENTE, COMPAÑÍA ANONIMA",
+  "rif": "J070095008",
+  "direccion": "",
+  "sada": "",
+  "vendorId": "susan_moran",
+  "id":   557,
+  "location": {
+    "lat": 10.72469240254559,
+    "lng": -71.62944928287052
+  }
+},
+{
+  "name": "DROGUERIA COBECA CENTRO, COMPAÑÍA ANONIMA",
+  "rif": "J070095008",
+  "direccion": "",
+  "sada": "",
+  "vendorId": "susan_moran",
+  "id": 558,
+  "location": {
+    "lat": 10.662202672706732,
+    "lng": -71.60754762719931
+  }
+}
 ]
