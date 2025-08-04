@@ -3111,7 +3111,7 @@
     "name": "Super Rio Market, C.A.",
     "rif": "J503684500",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "980659",
     "vendorId": "edwar_ruiz",
     "id": 370
   },
@@ -3613,7 +3613,7 @@
     "name": "Comercializadora Castellano Leal, C.A.",
     "rif": "J403990921",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "639730",
     "vendorId": "edwar_ruiz",
     "id": 435,
     "location": {
@@ -4755,5 +4755,13 @@
     "lat": 10.700083130270666, 
     "lng": -71.63728891552263
   }
+},
+{
+  "name": "PANADERIA Y PASTELERIA LAS AMERICAS C.A",
+  "rif": "J315883201",
+  "direccion": "",
+  "sada": "9041",
+  "vendorId": "reinaldo_rojo",
+  "id": 560
 }
 ]
