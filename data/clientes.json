@@ -51,7 +51,11 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "susan_moran",
-    "id": 6
+    "id": 6,
+    "location": {
+      "lat": 10.652608543246085,
+      "lng": -71.67354178465582
+    }
   },
   {
     "name": "Fiorella Cabimas (Cabimas)",
@@ -183,7 +187,11 @@
     "direccion": "No posee",
     "sada": "196922",
     "vendorId": "susan_moran",
-    "id": 21
+    "id": 21,
+    "location": {
+      "lat": 10.654625800318017,
+      "lng": -71.66908865581964
+    }
   },
   {
   "name": "Supermercado Cuatricentenario C.A.",
@@ -193,8 +201,8 @@
   "vendorId": "susan_moran",
   "id": 22,
   "location": {
-    "lat": 10.652714890830767,
-    "lng": -71.67261618650613
+    "lat": 10.652672715100817,
+    "lng": -71.67254108465757
   }
 },
   {
@@ -233,8 +241,8 @@
   "vendorId": "susan_moran",
   "id": 25,
   "location": {
-    "lat": 10.617045032974396,
-    "lng": -71.66827552035124
+    "lat": 10.6493224,
+    "lng": -71.6774635
   }
 },
   {
@@ -259,7 +267,11 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "susan_moran",
-    "id": 28
+    "id": 28,
+    "location": {
+      "lat": 10.652685942375127,
+      "lng": -71.67267554417806
+    }
   },
   {
     "name": "Ronalca Super Market C.A.",
@@ -276,15 +288,15 @@
     }
   },
   {
-    "name": "Supermercado Exito 2020 C.A.",
-    "rif": "J500388241",
-    "direccion": "No posee",
-    "sada": "No posee",
-    "vendorId": "susan_moran",
-    "id": 30,
-    "location": {
-    "lat": 10.652933,
-    "lng": -71.671841
+      "name": "Supermercado Exito 2020 C.A.",
+  "rif": "J500388241",
+  "direccion": "No posee",
+  "sada": "No posee",
+  "vendorId": "susan_moran",
+  "id": 30,
+  "location": {
+    "lat": 10.6521403,
+    "lng": -71.6731464
   }
   },
   {
@@ -319,8 +331,8 @@
   "vendorId": "susan_moran",
   "id": 34,
   "location": {
-    "lat": 10.664909735620855,
-    "lng": -71.70478496238384
+    "lat": 10.6470624,
+    "lng": -71.6807903
   }
 },
   {
@@ -353,7 +365,11 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "susan_moran",
-    "id": 38
+    "id": 38,
+    "location": {
+      "lat": 10.654284356767251,
+      "lng": -71.66928104418031
+    }
   },
   {
     "name": "Los Rojas 22, C.A.",
@@ -541,7 +557,11 @@
     "direccion": "No posee",
     "sada": "969811",
     "vendorId": "susan_moran",
-    "id": 60
+    "id": 60,
+    "location": {
+      "lat": 10.661249180376558,
+      "lng": -71.66824686810317
+    }
   },
   {
     "name": "Super Tienda El Bosque, C.A.",
@@ -665,7 +685,11 @@
     "direccion": "No posee",
     "sada": "974696",
     "vendorId": "susan_moran",
-    "id": 74
+    "id": 74,
+    "location": {
+      "lat": 10.6521403,
+      "lng": -71.6731464
+    }
   },
   {
     "name": "Restaurant Yangtse LC, C.A.",
@@ -847,7 +871,7 @@
     "name": "Inmosa C.A.",
     "rif": "J401335381",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "749118",
     "vendorId": "gerardo_hernandez",
     "id": 97
   },
@@ -1865,7 +1889,11 @@
     "direccion": "No posee",
     "sada": "No posee",
     "vendorId": "gerardo_hernandez",
-    "id": 219
+    "id": 219,
+    "location": {
+    "lat": 10.7051009,
+    "lng": -71.61038291349182
+  }
   },
   {
     "name": "Inversiones Hernalith, C.A.",
@@ -2047,7 +2075,7 @@
     "name": "Supermercado MO 88",
     "rif": "J504308420",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "978352",
     "vendorId": "reinaldo_rojo",
     "id": 242
   },
@@ -2079,7 +2107,7 @@
     "name": "Maxi Pingüino",
     "rif": "J412877135",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "81266",
     "vendorId": "reinaldo_rojo",
     "id": 246
   },
@@ -2679,7 +2707,7 @@
     "name": "Distribuidora La Popular de la Costa Oriental del Lago, C.A.",
     "rif": "J314042203",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "113684",
     "vendorId": "reinaldo_rojo",
     "id": 320
   },
@@ -2687,7 +2715,7 @@
     "name": "Inversiones Olda, C.A.",
     "rif": "J412968343",
     "direccion": "CALLE AURORA ESQUINA AVENIDA MIRAFLORES SECTOR TIERRA NEGRA CABIMAS",
-    "sada": "732658",
+    "sada": "732657",
     "vendorId": "reinaldo_rojo",
     "id": 321
   },
@@ -2759,7 +2787,7 @@
     "name": "Gran Éxito 2024, C.A.",
     "rif": "J504909149",
     "direccion": "No posee",
-    "sada": "No posee",
+    "sada": "986944",
     "vendorId": "reinaldo_rojo",
     "id": 330
   },
@@ -4714,6 +4742,18 @@
   "location": {
     "lat": 10.662202672706732,
     "lng": -71.60754762719931
+  }
+},
+{
+  "name": "Olano Market la Picola, C.A.",
+  "rif": "",
+  "direccion": "",
+  "sada": "",
+  "vendorId": "gerardo_hernandez",
+  "id": 559,
+  "location": {
+    "lat": 10.700083130270666, 
+    "lng": -71.63728891552263
   }
 }
 ]
